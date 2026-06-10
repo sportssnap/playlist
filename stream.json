@@ -1,11 +1,15 @@
 {
-  "wc-mexico-sa": {
-    "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
-    "sandbox": false
-  },
-  "fan": {
-    "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142985%2Fenglish.m3u8",
-    "sandbox": false
+  "wc-mexico-sa-1": {
+  "url": "https://live.inplyr.com/room/187579.m3u8",
+  "sandbox": false
+},
+"wc-mexico-sa-2": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142996%2Fenglish.m3u8",
+  "sandbox": false
+},
+"wc-mexico-sa-3": {
+  "url": "https://allinonereborn.online/sony/ptest.php?id=sony-max-hd",
+  "sandbox": false
   },
   "real": {
     "url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.mpd",
