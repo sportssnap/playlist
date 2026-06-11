@@ -1,28 +1,33 @@
 {
   "wc-mexico-sa-1": {
-  "url": "https://live.inplyr.com/room/187579.m3u8",
-  "sandbox": false
+  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa/fox",
+  "sandbox": true
 },
 "wc-mexico-sa-2": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142996%2Fenglish.m3u8",
-  "sandbox": false
+  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa",
+  "sandbox": true
 },
 "wc-mexico-sa-3": {
-  "url": "https://allinonereborn.online/sony/ptest.php?id=sony-max-hd",
+  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa/telemundo",
   "sandbox": true
   },
-  "real": {
-    "url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.mpd",
-    "sandbox": false,
-    "drm": {
-      "clearKeys": {
-        "KEY_ID_HEX": "KEY_VALUE_HEX"
+  "wc-mexico-sa-4": {
+  "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
       }
     }
   },
-  "city": {
-    "url": "https://allinonereborn.online/events/player.html?url=https%3A%2F%2Fmini.allinonereborn.fun%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F20000298%2FUEFA_Den0706%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1780894378~acl%3D%2F*~id%3D05531663052377135359145136921720~hmac%3Df0392144169fbc50a5e13a241c7d34f54443dd3dac0238f726602317a906ddc7",
-    "sandbox": true
+  "wc-mexico-sa-5": {
+  "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "4bbcff3289d457b4dd5dbdd21221de9a": "c4906b9a9f8dda3c0725bddb8c497733"
+      }
+    }
   },
   "protected-match": {
     "url": "https://example.com/stream.mpd",
