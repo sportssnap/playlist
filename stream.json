@@ -9,7 +9,7 @@
 },
 "wc-mexico-sa-3": {
   "url": "https://allinonereborn.online/sony/ptest.php?id=sony-max-hd",
-  "sandbox": false
+  "sandbox": true
   },
   "real": {
     "url": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.mpd",
