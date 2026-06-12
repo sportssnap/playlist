@@ -1,14 +1,14 @@
 {
   "wc-sk-czechia-1": {
-  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa/fox",
+  "url": "https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8",
   "sandbox": false
 },
 "wc-sk-czechia-2": {
-  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa",
+  "url": "https://cr7world.pages.dev/mpd/htmv",
   "sandbox": false
 },
 "wc-sk-czechia-3": {
-  "url": "https://embedindia.st/embed/wc/2026-06-11/mex-rsa/telemundo",
+  "url": "https://cr7world.pages.dev/mpd/worldcuptv",
   "sandbox": false
   },
   "wc-sk-czechia-4": {
@@ -21,11 +21,11 @@
     }
   },
   "wc-sk-czechia-5": {
-  "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+  "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "4bbcff3289d457b4dd5dbdd21221de9a": "c4906b9a9f8dda3c0725bddb8c497733"
+      "220d8978f3fd45b696137c5b94f7a264": "7bfe13500edee4f837ec03a907896306"
       }
     }
   },
