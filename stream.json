@@ -39,6 +39,31 @@
       }
     }
   },
+
+
+  
+  "odi-ind-afg-1": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206171071725&id=114607&pk=f7e7ddc6ea750a840a45e5cfb84c856e4c19b83e587d619b8663550d006f99949d4a1f42a565a53152adb5c161873d4e4a633d96494cbad5bcdc285ea3985520",
+  "sandbox": false
+},
+  "odi-ind-afg-2": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206171071725&id=114607&pk=f7e7ddc6ea750a840a45e5cfb84c856e4c19b83e587d619b8663550d006f99949d4a1f42a565a53152adb5c161873d4e4a633d96494cbad5bcdc285ea3985520",
+  "sandbox": false
+},
+  "odi-ind-afg-3": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206171071725&id=114607&pk=f7e7ddc6ea750a840a45e5cfb84c856e4c19b83e587d619b8663550d006f99949d4a1f42a565a53152adb5c161873d4e4a633d96494cbad5bcdc285ea3985520",
+  "sandbox": false
+},
+  "odi-ind-afg-4": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206171071725&id=114607&pk=f7e7ddc6ea750a840a45e5cfb84c856e4c19b83e587d619b8663550d006f99949d4a1f42a565a53152adb5c161873d4e4a633d96494cbad5bcdc285ea3985520",
+  "sandbox": false
+},
+  "odi-ind-afg-5": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206171071725&id=114607&pk=f7e7ddc6ea750a840a45e5cfb84c856e4c19b83e587d619b8663550d006f99949d4a1f42a565a53152adb5c161873d4e4a633d96494cbad5bcdc285ea3985520",
+  "sandbox": false
+},
+
+  
   "protected-match": {
     "url": "https://example.com/stream.mpd",
     "sandbox": false,
