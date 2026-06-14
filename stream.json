@@ -125,6 +125,33 @@
       }
     }
   },
+  "wc-ger-cur-6": {
+  "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
+      }
+    }
+  },
+  "wc-ger-cur-7": {
+  "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
+      }
+    }
+  },
+  "wc-ger-cur-8": {
+  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
+      }
+    }
+  },
   
 
 
