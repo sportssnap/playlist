@@ -173,6 +173,13 @@
   "sandbox": false
 },
 
+
+"fan-ban-aus-1": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142967%2Fenglish.m3u8",
+  "sandbox": false
+},
+  
+
   
   "protected-match": {
     "url": "https://example.com/stream.mpd",
