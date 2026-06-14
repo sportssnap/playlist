@@ -153,11 +153,11 @@
 
 
   "t20-wi-sl-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=206174492829&id=1001&pk=7b48dc93152365d8c327616372a07e072d938a4b0fc477ab9ee35f39b473313148e394fbae8276c931cb90a8b0f2f9abe7cdfb1ec353e7b09dd5ac3e466eaf08",
+  "url": "https://mut001.myturn1.top:8088/live/webcricp01/playlist.m3u8?id=113431&pk=ad20f8ae6e063283bbdb0566fbe767ff6ba485b4dd03f3eec605ac3ed64088cbcc0faa47732195b00018cbf7002e47ed13575c92714c91a645f20a18d819b4f1",
   "sandbox": false
 },
   "t20-wi-sl-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=206174492829&id=1001&pk=7b48dc93152365d8c327616372a07e072d938a4b0fc477ab9ee35f39b473313148e394fbae8276c931cb90a8b0f2f9abe7cdfb1ec353e7b09dd5ac3e466eaf08",
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c076b66bf31c2480ac42f4af3409046b36aedbaa28d8d2c2bbfa561a9877fc8d6fa377802fbf061abd79b38496e4cfce68816255c9cecdf311e59ff0e4e03de9",
   "sandbox": false
 },
   "t20-wi-sl-3": {
