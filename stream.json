@@ -9,7 +9,7 @@
     }
 },
 "wc-france-senegal-2": {
-  "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VFj0YRcRrwWR0kVFhyYJx24fwSDiQHpmybIgS_4is-EOeBNvlF7PGV29K5RZjhjZkx1zXQhBcMTy9eqraC6CYw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+  "url": "https://live05.msdht.app/live/97312754.m3u8",
   "sandbox": false
 },
 "wc-france-senegal-3": {
