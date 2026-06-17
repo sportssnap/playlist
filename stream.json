@@ -158,7 +158,7 @@
     }
 },
 "wc-arg-alg-2": {
-  "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-83/ctuz-kn91_720p/chunklist_DVR.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457018_565651094386f93737b4882db3712b24_autoChange.m3u8",
   "sandbox": false
 },
 "wc-arg-alg-3": {
@@ -217,6 +217,10 @@
   },
   "wc-arg-alg-9": {
   "url": "https://live.inplyr.com/room/387694.m3u8",
+  "sandbox": false
+},
+  "wc-arg-alg-10": {
+  "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
 
