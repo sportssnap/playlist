@@ -1,5 +1,5 @@
 {
-  "wc-france-senegal-1": {
+  "wc-por-dr-1": {
   "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
   "sandbox": false,
   "drm": {
@@ -8,11 +8,11 @@
       }
     }
 },
-"wc-france-senegal-2": {
+"wc-por-dr-2": {
   "url": "https://live05.msdht.app/live/97312754.m3u8",
   "sandbox": false
 },
-"wc-france-senegal-3": {
+"wc-por-dr-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -21,7 +21,7 @@
       }
     }
   },
-  "wc-france-senegal-4": {
+  "wc-por-dr-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -30,7 +30,7 @@
       }
     }
   },
-  "wc-france-senegal-5": {
+  "wc-por-dr-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "wc-france-senegal-6": {
+  "wc-por-dr-6": {
   "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -48,7 +48,7 @@
       }
     }
   },
-  "wc-france-senegal-7": {
+  "wc-por-dr-7": {
   "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
   "sandbox": false,
   "drm": {
@@ -57,7 +57,7 @@
       }
     }
   },
-  "wc-france-senegal-8": {
+  "wc-por-dr-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -66,167 +66,18 @@
       }
     }
   },
-  "wc-france-senegal-9": {
+  "wc-por-dr-9": {
   "url": "https://live05.msdht.app/live/97312754.m3u8",
   "sandbox": false
 },
-
-
-
-  "wc-iraq-norway-1": {
-  "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
-      }
-    }
-},
-"wc-iraq-norway-2": {
-  "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-83/ctuz-kn91_720p/chunklist_DVR.m3u8",
-  "sandbox": false
-},
-"wc-iraq-norway-3": {
-  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
-      }
-    }
-  },
-  "wc-iraq-norway-4": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
-      }
-    }
-  },
-  "wc-iraq-norway-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "a7d11d37a1f7611ee88d4db880171f32": "68f96d618b0b956b008c445896a25a79"
-      }
-    }
-  },
-  "wc-iraq-norway-6": {
-  "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
-      }
-    }
-  },
-  "wc-iraq-norway-7": {
-  "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
-      }
-    }
-  },
-  "wc-iraq-norway-8": {
-  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
-      }
-    }
-  },
-  "wc-iraq-norway-9": {
-  "url": "https://live05.msdht.app/live/97312754.m3u8",
-  "sandbox": false
-},
-
-
-
-
-  "wc-arg-alg-1": {
-  "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
-      }
-    }
-},
-"wc-arg-alg-2": {
-  "url": "https://live.egmdispatch.com/live/66457018_565651094386f93737b4882db3712b24_autoChange.m3u8",
-  "sandbox": false
-},
-"wc-arg-alg-3": {
-  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
-      }
-    }
-  },
-  "wc-arg-alg-4": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
-      }
-    }
-  },
-  "wc-arg-alg-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "a7d11d37a1f7611ee88d4db880171f32": "68f96d618b0b956b008c445896a25a79"
-      }
-    }
-  },
-  "wc-arg-alg-6": {
-  "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
-      }
-    }
-  },
-  "wc-arg-alg-7": {
-  "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
-      }
-    }
-  },
-  "wc-arg-alg-8": {
-  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
-      }
-    }
-  },
-  "wc-arg-alg-9": {
-  "url": "https://live.inplyr.com/room/387694.m3u8",
-  "sandbox": false
-},
-  "wc-arg-alg-10": {
+  "wc-por-dr-10": {
   "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
 
 
 
-  "wc-aus-jor-1": {
+  "wc-eng-cro-1": {
   "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
   "sandbox": false,
   "drm": {
@@ -235,11 +86,11 @@
       }
     }
 },
-"wc-aus-jor-2": {
-  "url": "https://live.inplyr.com/room/118206.m3u8",
+"wc-eng-cro-2": {
+  "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-83/ctuz-kn91_720p/chunklist_DVR.m3u8",
   "sandbox": false
 },
-"wc-aus-jor-3": {
+"wc-eng-cro-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -248,7 +99,7 @@
       }
     }
   },
-  "wc-aus-jor-4": {
+  "wc-eng-cro-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -257,7 +108,7 @@
       }
     }
   },
-  "wc-aus-jor-5": {
+  "wc-eng-cro-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -266,7 +117,7 @@
       }
     }
   },
-  "wc-aus-jor-6": {
+  "wc-eng-cro-6": {
   "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -275,7 +126,7 @@
       }
     }
   },
-  "wc-aus-jor-7": {
+  "wc-eng-cro-7": {
   "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
   "sandbox": false,
   "drm": {
@@ -284,7 +135,7 @@
       }
     }
   },
-  "wc-aus-jor-8": {
+  "wc-eng-cro-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -293,8 +144,169 @@
       }
     }
   },
-  "wc-aus-jor-9": {
+  "wc-eng-cro-9": {
   "url": "https://live05.msdht.app/live/97312754.m3u8",
+  "sandbox": false
+},
+  "wc-eng-cro-10": {
+  "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "sandbox": false
+},
+
+
+
+
+  "wc-ghana-panama-1": {
+  "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
+      }
+    }
+},
+"wc-ghana-panama-2": {
+  "url": "https://live.egmdispatch.com/live/66457018_565651094386f93737b4882db3712b24_autoChange.m3u8",
+  "sandbox": false
+},
+"wc-ghana-panama-3": {
+  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+      }
+    }
+  },
+  "wc-ghana-panama-4": {
+  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
+      }
+    }
+  },
+  "wc-ghana-panama-5": {
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "a7d11d37a1f7611ee88d4db880171f32": "68f96d618b0b956b008c445896a25a79"
+      }
+    }
+  },
+  "wc-ghana-panama-6": {
+  "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
+      }
+    }
+  },
+  "wc-ghana-panama-7": {
+  "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
+      }
+    }
+  },
+  "wc-ghana-panama-8": {
+  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
+      }
+    }
+  },
+  "wc-ghana-panama-9": {
+  "url": "https://live.inplyr.com/room/387694.m3u8",
+  "sandbox": false
+},
+  "wc-ghana-panama-10": {
+  "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "sandbox": false
+},
+
+
+
+  "wc-uz-co-1": {
+  "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
+      }
+    }
+},
+"wc-uz-co-2": {
+  "url": "https://live.inplyr.com/room/118206.m3u8",
+  "sandbox": false
+},
+"wc-uz-co-3": {
+  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+      }
+    }
+  },
+  "wc-uz-co-4": {
+  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
+      }
+    }
+  },
+  "wc-uz-co-5": {
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "a7d11d37a1f7611ee88d4db880171f32": "68f96d618b0b956b008c445896a25a79"
+      }
+    }
+  },
+  "wc-uz-co-6": {
+  "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
+      }
+    }
+  },
+  "wc-uz-co-7": {
+  "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
+      }
+    }
+  },
+  "wc-uz-co-8": {
+  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+  "sandbox": false,
+  "drm": {
+    "clearKeys": {
+      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
+      }
+    }
+  },
+  "wc-uz-co-9": {
+  "url": "https://live05.msdht.app/live/97312754.m3u8",
+  "sandbox": false
+},
+  "wc-uz-co-10": {
+  "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
   
