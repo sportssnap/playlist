@@ -257,20 +257,20 @@
     }
   },
   "wc-uz-co-4": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+  "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
+      "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
       }
     }
   },
   "wc-uz-co-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "a7d11d37a1f7611ee88d4db880171f32": "68f96d618b0b956b008c445896a25a79"
+      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
