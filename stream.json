@@ -74,6 +74,14 @@
   "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
+  "wc-cz-sa-11": {
+  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
+  "sandbox": false
+},
+  "wc-cz-sa-12": {
+  "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
+  "sandbox": false
+},
 
 
 
