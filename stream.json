@@ -1,5 +1,5 @@
 {
-  "wc-por-dr-1": {
+  "wc-cz-sa-1": {
   "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -8,11 +8,11 @@
       }
     }
 },
-"wc-por-dr-2": {
+"wc-cz-sa-2": {
   "url": "https://live.inplyr.com/room/534219.m3u8",
   "sandbox": false
 },
-"wc-por-dr-3": {
+"wc-cz-sa-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -21,7 +21,7 @@
       }
     }
   },
-  "wc-por-dr-4": {
+  "wc-cz-sa-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -30,7 +30,7 @@
       }
     }
   },
-  "wc-por-dr-5": {
+  "wc-cz-sa-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "wc-por-dr-6": {
+  "wc-cz-sa-6": {
   "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -48,7 +48,7 @@
       }
     }
   },
-  "wc-por-dr-7": {
+  "wc-cz-sa-7": {
   "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
   "sandbox": false,
   "drm": {
@@ -57,7 +57,7 @@
       }
     }
   },
-  "wc-por-dr-8": {
+  "wc-cz-sa-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -66,11 +66,11 @@
       }
     }
   },
-  "wc-por-dr-9": {
+  "wc-cz-sa-9": {
   "url": "https://live.inplyr.com/room/494201.m3u8",
   "sandbox": false
 },
-  "wc-por-dr-10": {
+  "wc-cz-sa-10": {
   "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
