@@ -366,12 +366,12 @@
 },
 
 
-"odi-ban-aus-1": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142968%2Fenglish.m3u8",
+"t20-ban-aus-1": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142969%2Fenglish.m3u8",
   "sandbox": false
 },
   
-  "odi-ban-aus-2": {
+  "t20-ban-aus-2": {
   "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -381,7 +381,7 @@
     }
   },
 
-  "odi-ban-aus-3": {
+  "t20-ban-aus-3": {
   "url": "https://muc001.myturn1.top:8088/live/webcricm05/playlist.m3u8?vidictid=206212400290&id=114516&pk=7367676549fe1ae3a7aa69b51440b0a1f475bd8daed8789f3b406ebc2a6f57b89ceffa439a8ec3ca2336acb10559f66e7ad7e33a4784016cccebf4425ed5ffd3",
   "sandbox": false
 },
