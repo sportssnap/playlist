@@ -382,7 +382,15 @@
   },
 
   "t20-ban-aus-3": {
-  "url": "https://muc001.myturn1.top:8088/live/webcricm05/playlist.m3u8?vidictid=206212400290&id=114516&pk=7367676549fe1ae3a7aa69b51440b0a1f475bd8daed8789f3b406ebc2a6f57b89ceffa439a8ec3ca2336acb10559f66e7ad7e33a4784016cccebf4425ed5ffd3",
+  "url": "https://muc001.myturn1.top:8088/live/webcricm05/playlist.m3u8?vidictid=20623314276&id=114516&pk=dd5703b49c80fcd91c8dfbac3c0d3426855c4d863c7f1ed8f60254f0f01934bf9f3eee77065ef5f071b6039351343a8728daae8d3c1562370a578ab74b7d0d1e",
+  "sandbox": false
+},
+  "t20-ban-aus-4": {
+  "url": "https://muc002.myturn1.top:8088/live/webcricwillow/playlist.m3u8?vidictid=206232032706&id=120375&pk=dd5703b49c80fcd91c8dfbac3c0d3426855c4d863c7f1ed8f60254f0f01934bf9f3eee77065ef5f071b6039351343a8728daae8d3c1562370a578ab74b7d0d1e",
+  "sandbox": false
+},
+  "t20-ban-aus-5": {
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=b6d0d6873fd6e91f74e0b6d42379d6f24123d87e5fbb3a4ade6b89d27e4710defe3d41454e50d86aebf351567e11f5fcb4ccaac8ffb3a6120c75912ec30aa6a3",
   "sandbox": false
 },
   
