@@ -1,5 +1,5 @@
 {
-  "wc-tr-py-1": {
+  "wc-nl-se-1": {
   "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -8,11 +8,11 @@
       }
     }
 },
-"wc-tr-py-2": {
+"wc-nl-se-2": {
   "url": "https://live.inplyr.com/room/534219.m3u8",
   "sandbox": false
 },
-"wc-tr-py-3": {
+"wc-nl-se-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -21,7 +21,7 @@
       }
     }
   },
-  "wc-tr-py-4": {
+  "wc-nl-se-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -30,7 +30,7 @@
       }
     }
   },
-  "wc-tr-py-5": {
+  "wc-nl-se-5": {
   "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -39,7 +39,7 @@
       }
     }
   },
-  "wc-tr-py-6": {
+  "wc-nl-se-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -48,7 +48,7 @@
       }
     }
   },
-  "wc-tr-py-7": {
+  "wc-nl-se-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -57,7 +57,7 @@
       }
     }
   },
-  "wc-tr-py-8": {
+  "wc-nl-se-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -66,26 +66,26 @@
       }
     }
   },
-  "wc-tr-py-9": {
+  "wc-nl-se-9": {
   "url": "https://live3.egmdispatch.com/live/66456946_ed2994d38bfd04cf6d9948d5dc2db2bf_autoChange.m3u8",
   "sandbox": false
 },
-  "wc-tr-py-10": {
+  "wc-nl-se-10": {
   "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
-  "wc-tr-py-11": {
+  "wc-nl-se-11": {
   "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
   "sandbox": false
 },
-  "wc-tr-py-12": {
+  "wc-nl-se-12": {
   "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
   "sandbox": false
 },
 
 
 
-  "wc-scot-ma-1": {
+  "wc-de-ci-1": {
   "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -94,11 +94,11 @@
       }
     }
 },
-"wc-scot-ma-2": {
+"wc-de-ci-2": {
   "url": "https://live.inplyr.com/room/534219.m3u8",
   "sandbox": false
 },
-"wc-scot-ma-3": {
+"wc-de-ci-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -107,7 +107,7 @@
       }
     }
   },
-  "wc-scot-ma-4": {
+  "wc-de-ci-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -116,7 +116,7 @@
       }
     }
   },
-  "wc-scot-ma-5": {
+  "wc-de-ci-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -125,7 +125,7 @@
       }
     }
   },
-  "wc-scot-ma-6": {
+  "wc-de-ci-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -134,7 +134,7 @@
       }
     }
   },
-  "wc-scot-ma-7": {
+  "wc-de-ci-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -143,7 +143,7 @@
       }
     }
   },
-  "wc-scot-ma-8": {
+  "wc-de-ci-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -152,19 +152,19 @@
       }
     }
   },
-  "wc-scot-ma-9": {
+  "wc-de-ci-9": {
   "url": "https://live.inplyr.com/room/494201.m3u8",
   "sandbox": false
 },
-  "wc-scot-ma-10": {
+  "wc-de-ci-10": {
   "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
-  "wc-scot-ma-11": {
+  "wc-de-ci-11": {
   "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
   "sandbox": false
 },
-  "wc-scot-ma-12": {
+  "wc-de-ci-12": {
   "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
   "sandbox": false
 },
@@ -172,7 +172,7 @@
 
 
 
-  "wc-br-ht-1": {
+  "wc-ec-cw-1": {
   "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -181,11 +181,11 @@
       }
     }
 },
-"wc-br-ht-2": {
+"wc-ec-cw-2": {
   "url": "https://live.inplyr.com/room/534219.m3u8",
   "sandbox": false
 },
-"wc-br-ht-3": {
+"wc-ec-cw-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -194,7 +194,7 @@
       }
     }
   },
-  "wc-br-ht-4": {
+  "wc-ec-cw-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -203,7 +203,7 @@
       }
     }
   },
-  "wc-br-ht-5": {
+  "wc-ec-cw-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -212,7 +212,7 @@
       }
     }
   },
-  "wc-br-ht-6": {
+  "wc-ec-cw-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -221,7 +221,7 @@
       }
     }
   },
-  "wc-br-ht-7": {
+  "wc-ec-cw-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -230,7 +230,7 @@
       }
     }
   },
-  "wc-br-ht-8": {
+  "wc-ec-cw-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -239,19 +239,19 @@
       }
     }
   },
-  "wc-br-ht-9": {
+  "wc-ec-cw-9": {
   "url": "https://live.inplyr.com/room/494201.m3u8",
   "sandbox": false
 },
-  "wc-br-ht-10": {
+  "wc-ec-cw-10": {
   "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
   "sandbox": false
 },
-  "wc-br-ht-11": {
+  "wc-ec-cw-11": {
   "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
   "sandbox": false
 },
-  "wc-br-ht-12": {
+  "wc-ec-cw-12": {
   "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
   "sandbox": false
 },
@@ -259,7 +259,7 @@
 
 
 
-  "wc-uz-co-1": {
+  "wc-tn-jp-1": {
   "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -268,11 +268,11 @@
       }
     }
 },
-"wc-uz-co-2": {
+"wc-tn-jp-2": {
   "url": "https://live.inplyr.com/room/118206.m3u8",
   "sandbox": false
 },
-"wc-uz-co-3": {
+"wc-tn-jp-3": {
   "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
   "sandbox": false,
   "drm": {
@@ -281,7 +281,7 @@
       }
     }
   },
-  "wc-uz-co-4": {
+  "wc-tn-jp-4": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -290,7 +290,7 @@
       }
     }
   },
-  "wc-uz-co-5": {
+  "wc-tn-jp-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -299,7 +299,7 @@
       }
     }
   },
-  "wc-uz-co-6": {
+  "wc-tn-jp-6": {
   "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -308,7 +308,7 @@
       }
     }
   },
-  "wc-uz-co-7": {
+  "wc-tn-jp-7": {
   "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
   "sandbox": false,
   "drm": {
@@ -317,7 +317,7 @@
       }
     }
   },
-  "wc-uz-co-8": {
+  "wc-tn-jp-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -326,12 +326,20 @@
       }
     }
   },
-  "wc-uz-co-9": {
+  "wc-tn-jp-9": {
   "url": "https://live05.msdht.app/live/97312754.m3u8",
   "sandbox": false
 },
-  "wc-uz-co-10": {
+  "wc-tn-jp-10": {
   "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "sandbox": false
+},
+  "wc-tn-jp-11": {
+  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
+  "sandbox": false
+},
+  "wc-tn-jp-12": {
+  "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
   "sandbox": false
 },
   
