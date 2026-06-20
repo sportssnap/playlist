@@ -31,11 +31,11 @@
     }
   },
   "wc-tr-py-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+  "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
+      "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
       }
     }
   },
@@ -67,7 +67,7 @@
     }
   },
   "wc-tr-py-9": {
-  "url": "https://live.inplyr.com/room/494201.m3u8",
+  "url": "https://live3.egmdispatch.com/live/66456946_ed2994d38bfd04cf6d9948d5dc2db2bf_autoChange.m3u8",
   "sandbox": false
 },
   "wc-tr-py-10": {
