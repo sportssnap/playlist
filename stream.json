@@ -67,11 +67,11 @@
     }
   },
   "wc-nl-se-9": {
-  "url": "https://live3.egmdispatch.com/live/66456946_ed2994d38bfd04cf6d9948d5dc2db2bf_autoChange.m3u8",
+  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460918.m3u8?txSecret=7290fb56366648fd65c0180d35e4d162&txTime=6A3816B0",
   "sandbox": false
 },
   "wc-nl-se-10": {
-  "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "url": "https://hlsplayers.pages.dev/player3?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8",
   "sandbox": false
 },
   "wc-nl-se-11": {
@@ -153,11 +153,11 @@
     }
   },
   "wc-de-ci-9": {
-  "url": "https://live.inplyr.com/room/494201.m3u8",
+  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460918.m3u8?txSecret=7290fb56366648fd65c0180d35e4d162&txTime=6A3816B0",
   "sandbox": false
 },
   "wc-de-ci-10": {
-  "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "url": "https://hlsplayers.pages.dev/player3?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8",
   "sandbox": false
 },
   "wc-de-ci-11": {
