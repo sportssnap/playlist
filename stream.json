@@ -83,6 +83,11 @@
   "sandbox": false
 },
 
+  "wc-es-sa-13": {
+  "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
+  "sandbox": false
+},
+
 
 
   "wc-be-ir-1": {
@@ -420,10 +425,7 @@
 },
 
 
-  "wc-a-b-1": {
-  "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
-  "sandbox": false
-},
+  
   
 
   
