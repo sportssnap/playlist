@@ -1,10 +1,10 @@
 {
   "wc-ar-at-1": {
-  "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
       }
     }
 },
@@ -13,11 +13,11 @@
   "sandbox": false
 },
 "wc-ar-at-3": {
-  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
@@ -67,11 +67,11 @@
     }
   },
   "wc-ar-at-9": {
-  "url": "https://live.inplyr.com/room/387694.m3u8",
+  "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
   "sandbox": false
 },
   "wc-ar-at-10": {
-  "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/jvXnqCFJPhbLNxjrUk4EMH0FfWShEVFe-jifARbc7dTrGq1JVFATS9OLWMVbIhOiU8G5GBmy_0rDB0RHpC7CvA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+  "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
   "sandbox": false
 },
   "wc-ar-at-11": {
