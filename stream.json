@@ -67,11 +67,11 @@
     }
   },
   "wc-pt-uz-9": {
-  "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+  "url": "https://live05.apusport.com/live/08552895.m3u8",
   "sandbox": false
 },
   "wc-pt-uz-10": {
-  "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
   "wc-pt-uz-11": {
@@ -91,11 +91,11 @@
 
 
   "wc-el-gh-1": {
-  "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
       }
     }
 },
@@ -104,11 +104,11 @@
   "sandbox": false
 },
 "wc-el-gh-3": {
-  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
@@ -158,11 +158,11 @@
     }
   },
   "wc-el-gh-9": {
-  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460918.m3u8?txSecret=7290fb56366648fd65c0180d35e4d162&txTime=6A3816B0",
+  "url": "https://live05.apusport.com/live/08552895.m3u8",
   "sandbox": false
 },
   "wc-el-gh-10": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
   "wc-el-gh-11": {
@@ -170,7 +170,12 @@
   "sandbox": false
 },
   "wc-el-gh-12": {
-  "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
+  "sandbox": false
+},
+
+  "wc-el-gh-13": {
+  "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
   "sandbox": false
 },
 
@@ -178,11 +183,11 @@
 
 
   "wc-pa-hr-1": {
-  "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
+  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
       }
     }
 },
@@ -191,11 +196,11 @@
   "sandbox": false
 },
 "wc-pa-hr-3": {
-  "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
     "clearKeys": {
-      "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
@@ -245,11 +250,11 @@
     }
   },
   "wc-pa-hr-9": {
-  "url": "https://live.inplyr.com/room/494201.m3u8",
+  "url": "https://live05.apusport.com/live/08552895.m3u8",
   "sandbox": false
 },
   "wc-pa-hr-10": {
-  "url": "https://hlsplayers.pages.dev/player1?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
   "wc-pa-hr-11": {
@@ -257,10 +262,14 @@
   "sandbox": false
 },
   "wc-pa-hr-12": {
-  "url": "https://live1.egmdispatch.com/live/66456910_663148ca613d0d69fab31112aae59986_autoChange.m3u8",
+  "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
 
+  "wc-pa-hr-13": {
+  "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
+  "sandbox": false
+},
 
 
 
