@@ -182,7 +182,7 @@
 
 
 
-  "wc-pa-hr-1": {
+  "wc-co-cd-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -191,11 +191,11 @@
       }
     }
 },
-"wc-pa-hr-2": {
+"wc-co-cd-2": {
   "url": "https://live.inplyr.com/room/534219.m3u8",
   "sandbox": false
 },
-"wc-pa-hr-3": {
+"wc-co-cd-3": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -204,7 +204,7 @@
       }
     }
   },
-  "wc-pa-hr-4": {
+  "wc-co-cd-4": {
   "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
   "sandbox": false,
   "drm": {
@@ -213,7 +213,7 @@
       }
     }
   },
-  "wc-pa-hr-5": {
+  "wc-co-cd-5": {
   "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -222,7 +222,7 @@
       }
     }
   },
-  "wc-pa-hr-6": {
+  "wc-co-cd-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -231,7 +231,7 @@
       }
     }
   },
-  "wc-pa-hr-7": {
+  "wc-co-cd-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -240,7 +240,7 @@
       }
     }
   },
-  "wc-pa-hr-8": {
+  "wc-co-cd-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -249,24 +249,24 @@
       }
     }
   },
-  "wc-pa-hr-9": {
+  "wc-co-cd-9": {
   "url": "https://live05.apusport.com/live/08552895.m3u8",
   "sandbox": false
 },
-  "wc-pa-hr-10": {
+  "wc-co-cd-10": {
   "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
-  "wc-pa-hr-11": {
+  "wc-co-cd-11": {
   "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460939.m3u8?txSecret=c0979a32a9bf85d900119e764a036e81&txTime=6A356528",
   "sandbox": false
 },
-  "wc-pa-hr-12": {
+  "wc-co-cd-12": {
   "url": "https://live.egmdispatch.com/live/66457034_34477df11e72f6ae4f4f0d82674d984b_autoChange.m3u8",
   "sandbox": false
 },
 
-  "wc-pa-hr-13": {
+  "wc-co-cd-13": {
   "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
   "sandbox": false
 },
