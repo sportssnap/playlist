@@ -71,8 +71,8 @@
   "sandbox": false
 },
   "wc-no-fr-10": {
-  "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8",
-  "sandbox": false
+  "url": "https://new-allinone.pages.dev/itv",
+  "sandbox": true
 },
   "wc-no-fr-11": {
   "url": "https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8",
