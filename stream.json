@@ -14,15 +14,15 @@
 },
 "wc-br-jp-3": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/fox",
-  "sandbox": true
+  "sandbox": false
 },
   "wc-br-jp-4": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/uk",
-  "sandbox": true
+  "sandbox": false
 },
   "wc-br-jp-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
-  "sandbox": true
+  "sandbox": false
 },
   "wc-br-jp-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
