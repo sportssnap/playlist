@@ -13,7 +13,7 @@
   "sandbox": false
 },
 "wc-ci-no-3": {
-  "url": "https://www.sportstreaming.xyz/embed/fox-4-eyvb",
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
   "wc-ci-no-4": {
@@ -75,7 +75,7 @@
 
 
 
-  "wc-nl-ma-1": {
+  "wc-fr-se-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -84,23 +84,23 @@
       }
     }
 },
-"wc-nl-ma-2": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
+"wc-fr-se-2": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": false
 },
-"wc-nl-ma-3": {
-  "url": "https://www.sportstreaming.xyz/embed/fox-4-eyvb",
+"wc-fr-se-3": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-nl-ma-4": {
-  "url": "https://www.sportstreaming.xyz/embed/telemundo-4-ym8k",
+  "wc-fr-se-4": {
+  "url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459722.m3u8?txSecret=fd9132cf5f683920e38546c360c08881&txTime=6A454538",
   "sandbox": true
 },
-  "wc-nl-ma-5": {
+  "wc-fr-se-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-nl-ma-6": {
+  "wc-fr-se-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -109,7 +109,7 @@
       }
     }
   },
-  "wc-nl-ma-7": {
+  "wc-fr-se-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -118,7 +118,7 @@
       }
     }
   },
-  "wc-nl-ma-8": {
+  "wc-fr-se-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -127,32 +127,31 @@
       }
     }
   },
-  "wc-nl-ma-9": {
-  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459719.m3u8?txSecret=1fe606cc540a34ba7a59bfa8ca97638a&txTime=6A446438",
+  "wc-fr-se-9": {
+  "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-nl-ma-10": {
+  "wc-fr-se-10": {
   "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
   "sandbox": false
 },
-  "wc-nl-ma-11": {
+  "wc-fr-se-11": {
   "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
   "sandbox": false
 },
-  "wc-nl-ma-12": {
-  "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(vtTSKNxIYcmA3J5OAdtWrksnKZquS_qYJbaus-khEaQxHQjM30gLynhCVV0zxL84slptHXmdx0mwivy6lTLFcjYZbr16yh-69BVlHDcHGoTGq-X9Zg8hUCW2hSQYuVHJ)/cloud/3/x9ko9z8/s/live-720.m3u8",
+  "wc-fr-se-12": {
+  "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-nl-ma-13": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+  "wc-fr-se-13": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
 
 
 
-
-  "wc-de-py-1": {
+  "wc-mx-ec-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -161,23 +160,23 @@
       }
     }
 },
-"wc-de-py-2": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
+"wc-mx-ec-2": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": false
 },
-"wc-de-py-3": {
-  "url": "https://www.sportstreaming.xyz/embed/fox-4-eyvb",
+"wc-mx-ec-3": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-de-py-4": {
-  "url": "https://www.sportstreaming.xyz/embed/telemundo-4-ym8k",
+  "wc-mx-ec-4": {
+  "url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459722.m3u8?txSecret=fd9132cf5f683920e38546c360c08881&txTime=6A454538",
   "sandbox": true
 },
-  "wc-de-py-5": {
+  "wc-mx-ec-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-de-py-6": {
+  "wc-mx-ec-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -186,7 +185,7 @@
       }
     }
   },
-  "wc-de-py-7": {
+  "wc-mx-ec-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -195,7 +194,7 @@
       }
     }
   },
-  "wc-de-py-8": {
+  "wc-mx-ec-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -204,25 +203,25 @@
       }
     }
   },
-  "wc-de-py-9": {
-  "url": "https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcmMUUNX8MW/playlist.m3u8",
+  "wc-mx-ec-9": {
+  "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-de-py-10": {
+  "wc-mx-ec-10": {
   "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
   "sandbox": false
 },
-  "wc-de-py-11": {
+  "wc-mx-ec-11": {
   "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
   "sandbox": false
 },
-  "wc-de-py-12": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+  "wc-mx-ec-12": {
+  "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-de-py-13": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+  "wc-mx-ec-13": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
 
