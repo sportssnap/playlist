@@ -1,5 +1,5 @@
 {
-  "wc-br-jp-1": {
+  "wc-ci-no-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -8,23 +8,23 @@
       }
     }
 },
-"wc-br-jp-2": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
+"wc-ci-no-2": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": false
 },
-"wc-br-jp-3": {
+"wc-ci-no-3": {
   "url": "https://www.sportstreaming.xyz/embed/fox-4-eyvb",
   "sandbox": true
 },
-  "wc-br-jp-4": {
+  "wc-ci-no-4": {
   "url": "https://www.sportstreaming.xyz/embed/telemundo-4-ym8k",
   "sandbox": true
 },
-  "wc-br-jp-5": {
+  "wc-ci-no-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-br-jp-6": {
+  "wc-ci-no-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -33,7 +33,7 @@
       }
     }
   },
-  "wc-br-jp-7": {
+  "wc-ci-no-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -42,7 +42,7 @@
       }
     }
   },
-  "wc-br-jp-8": {
+  "wc-ci-no-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -51,25 +51,25 @@
       }
     }
   },
-  "wc-br-jp-9": {
-  "url": "https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcmMUUNX8MW/playlist.m3u8",
+  "wc-ci-no-9": {
+  "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-br-jp-10": {
+  "wc-ci-no-10": {
   "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
   "sandbox": false
 },
-  "wc-br-jp-11": {
+  "wc-ci-no-11": {
   "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
   "sandbox": false
 },
-  "wc-br-jp-12": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+  "wc-ci-no-12": {
+  "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-br-jp-13": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+  "wc-ci-no-13": {
+  "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
 
