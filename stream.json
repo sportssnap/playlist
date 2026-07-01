@@ -151,7 +151,7 @@
 
 
 
-  "wc-mx-ec-1": {
+  "wc-el-cd-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -160,23 +160,23 @@
       }
     }
 },
-"wc-mx-ec-2": {
+"wc-el-cd-2": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": false
 },
-"wc-mx-ec-3": {
+"wc-el-cd-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-mx-ec-4": {
+  "wc-el-cd-4": {
   "url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459722.m3u8?txSecret=fd9132cf5f683920e38546c360c08881&txTime=6A454538",
   "sandbox": true
 },
-  "wc-mx-ec-5": {
+  "wc-el-cd-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-mx-ec-6": {
+  "wc-el-cd-6": {
   "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -185,7 +185,7 @@
       }
     }
   },
-  "wc-mx-ec-7": {
+  "wc-el-cd-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -194,7 +194,7 @@
       }
     }
   },
-  "wc-mx-ec-8": {
+  "wc-el-cd-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -203,24 +203,24 @@
       }
     }
   },
-  "wc-mx-ec-9": {
+  "wc-el-cd-9": {
   "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-mx-ec-10": {
+  "wc-el-cd-10": {
   "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
   "sandbox": false
 },
-  "wc-mx-ec-11": {
+  "wc-el-cd-11": {
   "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
   "sandbox": false
 },
-  "wc-mx-ec-12": {
+  "wc-el-cd-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-mx-ec-13": {
+  "wc-el-cd-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
