@@ -1,5 +1,5 @@
 {
-  "wc-es-at-1": {
+  "wc-au-eg-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -8,15 +8,15 @@
       }
     }
 },
-"wc-es-at-2": {
+"wc-au-eg-2": {
   "url": "https://razkom6.blogspot.com/?m=0",
   "sandbox": false
 },
-"wc-es-at-3": {
+"wc-au-eg-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-es-at-4": {
+  "wc-au-eg-4": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": true
 },
@@ -24,7 +24,7 @@
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-es-at-6": {
+  "wc-au-eg-6": {
   "url": "https://razkomlm.blogspot.com/?m=0",
   "sandbox": false
 },
@@ -46,31 +46,31 @@
       }
     }
   },
-  "wc-es-at-9": {
+  "wc-au-eg-9": {
   "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-es-at10": {
+  "wc-au-eg-10": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_720p.m3u8",
   "sandbox": false
 },
-  "wc-es-at-11": {
+  "wc-au-eg-11": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_1080p.m3u8",
   "sandbox": false
 },
-  "wc-es-at-12": {
+  "wc-au-eg-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-es-at-13": {
+  "wc-au-eg-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
 
 
 
-  "wc-pt-hr-1": {
+  "wc-ar-cv-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -79,27 +79,27 @@
       }
     }
 },
-"wc-pt-hr-2": {
+"wc-ar-cv-2": {
   "url": "https://razkom6.blogspot.com/?m=0",
   "sandbox": false
 },
-"wc-pt-hr-3": {
+"wc-ar-cv-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-pt-hr-4": {
+  "wc-ar-cv-4": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "wc-pt-hr-5": {
+  "wc-ar-cv-5": {
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-pt-hr-6": {
+  "wc-ar-cv-6": {
   "url": "https://razkomlm.blogspot.com/?m=0",
   "sandbox": false
 },
-  "wc-pt-hr-7": {
+  "wc-ar-cv-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -108,7 +108,7 @@
       }
     }
   },
-  "wc-pt-hr-8": {
+  "wc-ar-cv-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -117,24 +117,24 @@
       }
     }
   },
-  "wc-pt-hr-9": {
+  "wc-ar-cv-9": {
   "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
-  "wc-pt-hr-10": {
+  "wc-ar-cv-10": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_720p.m3u8",
   "sandbox": false
 },
-  "wc-pt-hr-11": {
+  "wc-ar-cv-11": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_1080p.m3u8",
   "sandbox": false
 },
-  "wc-pt-hr-12": {
+  "wc-ar-cv-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-pt-hr-13": {
+  "wc-ar-cv-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
@@ -155,7 +155,7 @@
   "url": "https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRSYcv9PxHpny6/playlist.m3u8",
   "sandbox": false
 },
-"wc-ch-dz-3": {
+"wc-co-gh-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
@@ -167,7 +167,7 @@
   "url": "https://embedindia.st/embed/wc/2026-06-29/bra-jpn/bein",
   "sandbox": false
 },
-  "wc-ch-dz-6": {
+  "wc-co-gh-6": {
   "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
   "sandbox": false
 },
@@ -184,7 +184,7 @@
   "url": "https://tfx71gradgmtt8y5nhcj3ghzdnpjwfiozy6dscaa8qh33grz81am1p3tse5o.100ycdn.com/apxvf0ws91.yarncdn.live/live/sd-6MvYMRSYcv9PxHpny6/playlist.m3u8?wsSession=2e1ea59ec78bb57bfd4d9c0d-178292492336388",
   "sandbox": false
 },
-  "wc-ch-dz-9": {
+  "wc-co-gh-9": {
   "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
   "sandbox": false
 },
@@ -201,7 +201,7 @@
   "sandbox": false
 },
 
-  "wc-ch-dz-13": {
+  "wc-co-gh-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
