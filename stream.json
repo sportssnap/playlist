@@ -1,5 +1,5 @@
 {
-  "wc-br-no-1": {
+  "wc-pt-es-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -8,27 +8,27 @@
       }
     }
 },
-"wc-br-no-2": {
+"wc-pt-es-2": {
   "url": "https://razkom6.blogspot.com/?m=0",
   "sandbox": false
 },
-"wc-br-no-3": {
+"wc-pt-es-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-br-no-4": {
+  "wc-pt-es-4": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "wc-br-no-5": {
+  "wc-pt-es-5": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=wtv",
   "sandbox": false
 },
-  "wc-br-no-6": {
+  "wc-pt-es-6": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=fox",
   "sandbox": false
 },
-  "wc-br-no-7": {
+  "wc-pt-es-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -37,7 +37,7 @@
       }
     }
   },
-  "wc-br-no-8": {
+  "wc-pt-es-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -46,31 +46,31 @@
       }
     }
   },
-  "wc-br-no-9": {
+  "wc-pt-es-9": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": false
 },
-  "wc-br-no-10": {
+  "wc-pt-es-10": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=tsn1",
   "sandbox": false
 },
-  "wc-br-no-11": {
+  "wc-pt-es-11": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_1080p.m3u8",
   "sandbox": false
 },
-  "wc-br-no-12": {
+  "wc-pt-es-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-br-no-13": {
+  "wc-pt-es-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
 
 
 
-  "wc-mx-el-1": {
+  "wc-us-be-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -79,27 +79,27 @@
       }
     }
 },
-"wc-mx-el-2": {
+"wc-us-be-2": {
   "url": "https://razkom6.blogspot.com/?m=0",
   "sandbox": false
 },
-"wc-mx-el-3": {
+"wc-us-be-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-mx-el-4": {
+  "wc-us-be-4": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "wc-mx-el-5": {
+  "wc-us-be-5": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=wtv",
   "sandbox": false
 },
-  "wc-mx-el-6": {
+  "wc-us-be-6": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=fox",
   "sandbox": false
 },
-  "wc-mx-el-7": {
+  "wc-us-be-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -108,7 +108,7 @@
       }
     }
   },
-  "wc-mx-el-8": {
+  "wc-us-be-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -117,24 +117,24 @@
       }
     }
   },
-  "wc-mx-el-9": {
+  "wc-us-be-9": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": false
 },
-  "wc-mx-el-10": {
+  "wc-us-be-10": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=tsn1",
   "sandbox": false
 },
-  "wc-mx-el-11": {
+  "wc-us-be-11": {
   "url": "https://live.kinxie.com/live/53452565_f31a3bb4744ba9ec5c5927af7166c72f_1080p.m3u8",
   "sandbox": false
 },
-  "wc-mx-el-12": {
+  "wc-us-be-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-mx-el-13": {
+  "wc-us-be-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
