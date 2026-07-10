@@ -70,7 +70,7 @@
 
 
 
-  "wc-fr-mo-1": {
+  "wc-es-bg-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -79,27 +79,27 @@
       }
     }
 },
-"wc-fr-mo-2": {
+"wc-es-bg-2": {
   "url": "https://pul-tenm.gkykp.com/live/hd-en-1-4459806.m3u8?txSecret=2311322a0632092b95817f0ccdb76574&txTime=6A4E7130",
   "sandbox": false
 },
-"wc-fr-mo-3": {
-  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+"wc-es-bg-3": {
+  "url": "https://xameleon.phantemlis.top/three/secure/d10079f5b3c22b9eba02a8b70126bc77/1783705158/premium39/index.m3u8",
   "sandbox": true
 },
-  "wc-fr-mo-4": {
+  "wc-es-bg-4": {
   "url": "https://live05.koepgd.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "wc-fr-mo-5": {
+  "wc-es-bg-5": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=wtv",
   "sandbox": false
 },
-  "wc-fr-mo-6": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=fox",
+  "wc-es-bg-6": {
+  "url": "https://xameleon.phantemlis.top/three/secure/d10079f5b3c22b9eba02a8b70126bc77/1783705158/premium39/index.m3u8",
   "sandbox": false
 },
-  "wc-fr-mo-7": {
+  "wc-es-bg-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -108,7 +108,7 @@
       }
     }
   },
-  "wc-fr-mo-8": {
+  "wc-es-bg-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -117,24 +117,24 @@
       }
     }
   },
-  "wc-fr-mo-9": {
+  "wc-es-bg-9": {
   "url": "https://hlsplayers.pages.dev/player3?url=https://www.rtmpcdn.com/live/miguyueyu1.m3u8",
   "sandbox": false
 },
-  "wc-fr-mo-10": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=tsn1",
+  "wc-es-bg-10": {
+  "url": "https://xameleon.phantemlis.top/three/secure/68fab8c5a91764508ba933d2849aa8d9/1783705708/premium54/index.m3u8",
   "sandbox": false
 },
-  "wc-fr-mo-11": {
+  "wc-es-bg-11": {
   "url": "https://hls.live123.fans/live/4459806.m3u8",
   "sandbox": false
 },
-  "wc-fr-mo-12": {
+  "wc-es-bg-12": {
   "url": "https://anym3u8player.com/tv/p.php?url=https%3A%2F%2Fcors.globetv.app%2Fhttp%3A%2F%2F84.17.50.102%2Ffox%2Findex.m3u8",
   "sandbox": false
 },
 
-  "wc-fr-mo-13": {
+  "wc-es-bg-13": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
   "sandbox": false
 },
