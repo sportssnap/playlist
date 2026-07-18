@@ -70,7 +70,7 @@
 
 
 
-  "wc-el-ar-1": {
+  "wc-fr-el-1": {
   "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
   "sandbox": false,
   "drm": {
@@ -79,27 +79,27 @@
       }
     }
 },
-"wc-el-ar-2": {
+"wc-fr-el-2": {
   "url": "https://live.kinxie.com/live/53452533_f2f0c0e3aa48bec36c08d5c71aa15a36.m3u8",
   "sandbox": false
 },
-"wc-el-ar-3": {
+"wc-fr-el-3": {
   "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "sandbox": true
 },
-  "wc-el-ar-4": {
+  "wc-fr-el-4": {
   "url": "https://live.kinxie.com/live/53452533_f2f0c0e3aa48bec36c08d5c71aa15a36.m3u8",
   "sandbox": true
 },
-  "wc-el-ar-5": {
+  "wc-fr-el-5": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
   "sandbox": false
 },
-  "wc-el-ar-6": {
+  "wc-fr-el-6": {
   "url": "https://live.kinxie.com/live/53452533_f2f0c0e3aa48bec36c08d5c71aa15a36.m3u8",
   "sandbox": false
 },
-  "wc-el-ar-7": {
+  "wc-fr-el-7": {
   "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
   "sandbox": false,
   "drm": {
@@ -108,7 +108,7 @@
       }
     }
   },
-  "wc-el-ar-8": {
+  "wc-fr-el-8": {
   "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
   "sandbox": false,
   "drm": {
@@ -117,24 +117,24 @@
       }
     }
   },
-  "wc-el-ar-9": {
+  "wc-fr-el-9": {
   "url": "https://live05.miekgo.app/live/78905744.m3u8",
   "sandbox": false
 },
-  "wc-el-ar-10": {
+  "wc-fr-el-10": {
   "url": "https://live.kinxie.com/live/53452533_f2f0c0e3aa48bec36c08d5c71aa15a36.m3u8",
   "sandbox": false
 },
-  "wc-el-ar-11": {
+  "wc-fr-el-11": {
   "url": "https://hls.live123.fans/live/4459806.m3u8",
   "sandbox": false
 },
-  "wc-el-ar-12": {
+  "wc-fr-el-12": {
   "url": "https://live05.miekgo.app/live/78905744.m3u8",
   "sandbox": false
 },
 
-  "wc-el-ar-13": {
+  "wc-fr-el-13": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
   "sandbox": false
 },
