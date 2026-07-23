@@ -422,23 +422,23 @@
 
 
   
-  "odi-el-in-1": {
+  "t20-zw-in-1": {
   "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
   "sandbox": false
 },
-  "odi-el-in-2": {
-  "url": "https://plu002.myturn1.top:8088/live/webcricwillow/playlist.m3u8?vidictid=206533152874&id=120375&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
+  "t20-zw-in-2": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d6b35e948dbc58a26f8859c0802357442d490fc452162494924d9fdd9ab94187385e49c48e5ed99e1788375fe822d668605a4ea774f7fcd82acdefe4a0fe0a7d",
   "sandbox": false
 },
-  "odi-el-in-3": {
+  "t20-zw-in-3": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d6b35e948dbc58a26f8859c0802357442d490fc452162494924d9fdd9ab94187385e49c48e5ed99e1788375fe822d668605a4ea774f7fcd82acdefe4a0fe0a7d",
+  "sandbox": false
+},
+  "t20-zw-in-4": {
   "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
   "sandbox": false
 },
-  "odi-el-in-4": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
-  "sandbox": false
-},
-  "odi-el-in-5": {
+  "t20-zw-in-5": {
   "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
   "sandbox": false
 },
