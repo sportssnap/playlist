@@ -423,15 +423,15 @@
 
   
   "t20-zw-in-1": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206598789250&id=114607&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
   "t20-zw-in-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d6b35e948dbc58a26f8859c0802357442d490fc452162494924d9fdd9ab94187385e49c48e5ed99e1788375fe822d668605a4ea774f7fcd82acdefe4a0fe0a7d",
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206598789250&id=114607&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
   "t20-zw-in-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d6b35e948dbc58a26f8859c0802357442d490fc452162494924d9fdd9ab94187385e49c48e5ed99e1788375fe822d668605a4ea774f7fcd82acdefe4a0fe0a7d",
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206598789250&id=114607&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
   "t20-zw-in-4": {
@@ -439,7 +439,7 @@
   "sandbox": false
 },
   "t20-zw-in-5": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricsky/playlist.m3u8?id=121345&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
+  "url": "https://plu001.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=206598789250&id=114607&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
 
@@ -468,24 +468,24 @@
 
 
 
-  "t20-zw-bd-1": {
-  "url": "https://mut001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=74a935f20a200d21efdb20dc05c844ea860319374d4ac1d52d4034e84eeba997ec9d722950487bdd03bda35df0b3a119650fb987028cfc802c9755ab9107c029",
+  "test-ws-pk-1": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
-  "t20-zw-bd-2": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_143405%2Fenglish.m3u8",
+  "test-ws-pk-2": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
-  "t20-zw-bd-3": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=bd720",
+  "test-ws-pk-3": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
-  "t20-zw-bd-4": {
-  "url": "https://mut001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=74a935f20a200d21efdb20dc05c844ea860319374d4ac1d52d4034e84eeba997ec9d722950487bdd03bda35df0b3a119650fb987028cfc802c9755ab9107c029",
+  "test-ws-pk-4": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
-  "t20-zw-bd-5": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=bd",
+  "test-ws-pk-5": {
+  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
   "sandbox": false
 },
 
