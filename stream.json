@@ -63,38 +63,38 @@
 
 
   
-"club-juv-nice-1": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4600874_gqzm.m3u8?auth_key=1785517416-0-0-02b610b6f1a54f89e4528e95427a99e0&token=3926ed3c721d2c6f&device=4&platform=rrty",
+"club-che-tot-1": {
+  "url": "https://hls.live123.fans/live/4541774.m3u8",
   "sandbox": true
 },
-"club-juv-nice-2": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4600874_gqzm.m3u8?auth_key=1785517416-0-0-02b610b6f1a54f89e4528e95427a99e0&token=3926ed3c721d2c6f&device=4&platform=rrty",
+"club-che-tot-2": {
+  "url": "https://hls.live123.fans/live/4541774.m3u8",
   "sandbox": true
 },
-  "club-juv-nice-3": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4600874_gqzm.m3u8?auth_key=1785517416-0-0-02b610b6f1a54f89e4528e95427a99e0&token=3926ed3c721d2c6f&device=4&platform=rrty",
+  "club-che-tot-3": {
+  "url": "https://play.aarray.cn/rrty/sd-1-4541774_gqzm.m3u8?auth_key=1785585593-0-0-daba2cd243d5b2ce860f61fced2c963e&token=58da5e6946070a1e&device=4&platform=rrty",
   "sandbox": true
 },
-  "club-juv-nice-4": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4600874_gqzm.m3u8?auth_key=1785517416-0-0-02b610b6f1a54f89e4528e95427a99e0&token=3926ed3c721d2c6f&device=4&platform=rrty",
+  "club-che-tot-4": {
+  "url": "https://play.aarray.cn/rrty/sd-1-4541774_gqzm.m3u8?auth_key=1785585593-0-0-daba2cd243d5b2ce860f61fced2c963e&token=58da5e6946070a1e&device=4&platform=rrty",
   "sandbox": true
 },
 
 
 
-  "club-city-barca-1": {
+  "club-city-inter-1": {
   "url": "https://okzb.eotlinn.cn/rrty/sd-1-4596013_gqzm.m3u8?auth_key=1785263141-0-0-70070a444f11ae4f97df477a45a59d02&token=636c1f2feb40cd9e&device=4&platform=rrty",
   "sandbox": true
 },
-"club-city-barca-2": {
+"club-city-inter-2": {
   "url": "https://okzb.eotlinn.cn/rrty/sd-1-4596013_gqzm.m3u8?auth_key=1785263141-0-0-70070a444f11ae4f97df477a45a59d02&token=636c1f2feb40cd9e&device=4&platform=rrty",
   "sandbox": true
 },
-  "club-city-barca-3": {
+  "club-city-inter-3": {
   "url": "https://okzb.eotlinn.cn/rrty/sd-1-4596013_gqzm.m3u8?auth_key=1785263141-0-0-70070a444f11ae4f97df477a45a59d02&token=636c1f2feb40cd9e&device=4&platform=rrty",
   "sandbox": true
 },
-  "club-city-barca-4": {
+  "club-city-inter-4": {
   "url": "https://okzb.eotlinn.cn/rrty/sd-1-4596013_gqzm.m3u8?auth_key=1785263141-0-0-70070a444f11ae4f97df477a45a59d02&token=636c1f2feb40cd9e&device=4&platform=rrty",
   "sandbox": true
 },
