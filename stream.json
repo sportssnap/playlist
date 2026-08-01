@@ -63,20 +63,20 @@
 
 
   
-"club-che-tot-1": {
-  "url": "https://hls.live123.fans/live/4541774.m3u8",
+"club-united-madrid-1": {
+  "url": "https://live.inplyr.com/room/527383.m3u8",
   "sandbox": true
 },
-"club-che-tot-2": {
-  "url": "https://hls.live123.fans/live/4541774.m3u8",
+"club-united-madrid-2": {
+  "url": "https://live.inplyr.com/room/527383.m3u8",
   "sandbox": true
 },
-  "club-che-tot-3": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4541774_gqzm.m3u8?auth_key=1785585593-0-0-daba2cd243d5b2ce860f61fced2c963e&token=58da5e6946070a1e&device=4&platform=rrty",
+  "club-united-madrid-3": {
+  "url": "https://live.inplyr.com/room/527383.m3u8",
   "sandbox": true
 },
-  "club-che-tot-4": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4541774_gqzm.m3u8?auth_key=1785585593-0-0-daba2cd243d5b2ce860f61fced2c963e&token=58da5e6946070a1e&device=4&platform=rrty",
+  "club-united-madrid-4": {
+  "url": "https://live.inplyr.com/room/527383.m3u8",
   "sandbox": true
 },
 
