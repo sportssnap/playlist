@@ -352,23 +352,23 @@
 
 
   "test-ws-pk-1": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c7706db04182206dd856e5445f5b7a5cf80626e685c6dfe17dfe2f185075f440926f08a337236a2d668e5814e3acd7deb99c3e727b124c8b800da42a31589d26",
   "sandbox": false
 },
   "test-ws-pk-2": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c7706db04182206dd856e5445f5b7a5cf80626e685c6dfe17dfe2f185075f440926f08a337236a2d668e5814e3acd7deb99c3e727b124c8b800da42a31589d26",
   "sandbox": false
 },
   "test-ws-pk-3": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c7706db04182206dd856e5445f5b7a5cf80626e685c6dfe17dfe2f185075f440926f08a337236a2d668e5814e3acd7deb99c3e727b124c8b800da42a31589d26",
   "sandbox": false
 },
   "test-ws-pk-4": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c7706db04182206dd856e5445f5b7a5cf80626e685c6dfe17dfe2f185075f440926f08a337236a2d668e5814e3acd7deb99c3e727b124c8b800da42a31589d26",
   "sandbox": false
 },
   "test-ws-pk-5": {
-  "url": "https://plu001.myturn1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=bb0f0388e2d8fe4b0dc83aa3490dc619f7ea8befc9430c36d901efb4d0714d502c54ee50b5f5dd602ea0ada2c8ff1849c737b87c58e937c476534cc1bde1ff5f",
+  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c7706db04182206dd856e5445f5b7a5cf80626e685c6dfe17dfe2f185075f440926f08a337236a2d668e5814e3acd7deb99c3e727b124c8b800da42a31589d26",
   "sandbox": false
 },
 
