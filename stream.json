@@ -323,24 +323,24 @@
 
 
   
-  "t20-zw-in-1": {
-  "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+  "test-lk-in-1": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3c9e2ec37645574c78301c455a6d5c8f85bb16d879bbe4b4dfb38ab8026f554c2a5ed55608896ce53bfe51f595fa99c1aafffcd16f43bcb1ef5978b00c5251ad",
   "sandbox": false
 },
-  "t20-zw-in-2": {
-  "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+  "test-lk-in-2": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3c9e2ec37645574c78301c455a6d5c8f85bb16d879bbe4b4dfb38ab8026f554c2a5ed55608896ce53bfe51f595fa99c1aafffcd16f43bcb1ef5978b00c5251ad",
   "sandbox": false
 },
-  "t20-zw-in-3": {
-  "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+  "test-lk-in-3": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3c9e2ec37645574c78301c455a6d5c8f85bb16d879bbe4b4dfb38ab8026f554c2a5ed55608896ce53bfe51f595fa99c1aafffcd16f43bcb1ef5978b00c5251ad",
   "sandbox": false
 },
-  "t20-zw-in-4": {
-  "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+  "test-lk-in-4": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3c9e2ec37645574c78301c455a6d5c8f85bb16d879bbe4b4dfb38ab8026f554c2a5ed55608896ce53bfe51f595fa99c1aafffcd16f43bcb1ef5978b00c5251ad",
   "sandbox": false
 },
-  "t20-zw-in-5": {
-  "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+  "test-lk-in-5": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3c9e2ec37645574c78301c455a6d5c8f85bb16d879bbe4b4dfb38ab8026f554c2a5ed55608896ce53bfe51f595fa99c1aafffcd16f43bcb1ef5978b00c5251ad",
   "sandbox": false
 },
 
