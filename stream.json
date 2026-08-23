@@ -100,20 +100,20 @@
 },
 
 
-  "club-base-barca-1": {
-  "url": "https://hls.live123.fans/live/4611941.m3u8",
+  "serie-fros-juv-1": {
+  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
   "sandbox": true
 },
-"club-base-barca-2": {
-  "url": "https://hls.live123.fans/live/4611941.m3u8",
+"serie-fros-juv-2": {
+  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
   "sandbox": true
 },
-  "club-base-barca-3": {
-  "url": "https://hls.live123.fans/live/4611941.m3u8",
+  "serie-fros-juv-3": {
+  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
   "sandbox": true
 },
-  "club-base-barca-4": {
-  "url": "https://hls.live123.fans/live/4611941.m3u8",
+  "serie-fros-juv-4": {
+  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
   "sandbox": true
 },
 
