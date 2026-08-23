@@ -328,7 +328,7 @@
   "sandbox": false
 },
   "test-lk-in-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=dc7ec84cbfc136495d50002f94a2fb575b668de97d16fc2e5fb8b8c5f938e766d54655f4578d11fa0055db712e1703a13536e98052ebced551d1baf8162721ae",
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=04045a3031179ba5e9cee4713599fbde71c32c555307c6dd61800f0fcb96b40f30aca743ab9f0b96059f32721de131911a6dc8e2cf411bb21314a454fbf2bdb8",
   "sandbox": false
 },
   "test-lk-in-3": {
@@ -336,7 +336,7 @@
   "sandbox": false
 },
   "test-lk-in-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=dc7ec84cbfc136495d50002f94a2fb575b668de97d16fc2e5fb8b8c5f938e766d54655f4578d11fa0055db712e1703a13536e98052ebced551d1baf8162721ae",
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=04045a3031179ba5e9cee4713599fbde71c32c555307c6dd61800f0fcb96b40f30aca743ab9f0b96059f32721de131911a6dc8e2cf411bb21314a454fbf2bdb8",
   "sandbox": false
 },
   "test-lk-in-5": {
