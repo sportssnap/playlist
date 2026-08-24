@@ -328,7 +328,7 @@
   "sandbox": false
 },
   "test-lk-in-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=04045a3031179ba5e9cee4713599fbde71c32c555307c6dd61800f0fcb96b40f30aca743ab9f0b96059f32721de131911a6dc8e2cf411bb21314a454fbf2bdb8",
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=ddaab5167ec33b8d7ac472f4dc7b86dce8e5d6a2d50566c59e8870d0ca1e9a85587e682c570f80be2ad17a61296fedb44a1ccf2f3c1b61f04f0ab4fc69f7147d",
   "sandbox": false
 },
   "test-lk-in-3": {
@@ -336,7 +336,7 @@
   "sandbox": false
 },
   "test-lk-in-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=04045a3031179ba5e9cee4713599fbde71c32c555307c6dd61800f0fcb96b40f30aca743ab9f0b96059f32721de131911a6dc8e2cf411bb21314a454fbf2bdb8",
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=ddaab5167ec33b8d7ac472f4dc7b86dce8e5d6a2d50566c59e8870d0ca1e9a85587e682c570f80be2ad17a61296fedb44a1ccf2f3c1b61f04f0ab4fc69f7147d",
   "sandbox": false
 },
   "test-lk-in-5": {
@@ -346,24 +346,24 @@
 
 
 
-  "cwc-np-nl-1": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4246708%2Fenglish.m3u8",
+  "t20-np-hha-1": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-flive.fancode.com/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787563894~_GO=Generated~acl=/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/*~Signature=ARB3KG3fKz2ZetwrYp1XaqyhbkhPXcE3hsK6SGEC0JlfbxNLOTtvgtzUkmAaGdhybpBCEky9P8to9HzuoyLz2t3DzdMC",
   "sandbox": false
 },
-  "cwc-np-nl-2": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4246708%2Fenglish.m3u8",
+  "t20-np-hha-2": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4248444%2Fenglish.m3u8",
   "sandbox": false
 },
-  "cwc-np-nl-3": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4246708%2Fenglish.m3u8",
+  "t20-np-hha-3": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-flive.fancode.com/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787563894~_GO=Generated~acl=/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/*~Signature=ARB3KG3fKz2ZetwrYp1XaqyhbkhPXcE3hsK6SGEC0JlfbxNLOTtvgtzUkmAaGdhybpBCEky9P8to9HzuoyLz2t3DzdMC",
   "sandbox": false
 },
-  "cwc-np-nl-4": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4246708%2Fenglish.m3u8",
+  "t20-np-hha-4": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4248444%2Fenglish.m3u8",
   "sandbox": false
 },
-  "cwc-np-nl-5": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4246708%2Fenglish.m3u8",
+  "t20-np-hha-5": {
+  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4248444%2Fenglish.m3u8",
   "sandbox": false
 },
 
