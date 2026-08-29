@@ -82,152 +82,116 @@
 
 
 
-  "epl-afc-eve-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558483.m3u8",
+  "epl-tot-new-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558505.m3u8",
   "sandbox": true
 },
-"epl-afc-eve-2": {
-  "url": "https://live3.ftlcbx.com/live/72221214_7f5fe91c82547e58230b674b1ec16fa4_1080p.m3u8",
+"epl-tot-new-2": {
+  "url": "https://live3.ftlcbx.com/live/72221230_75dc20972521d89599f703c011e9360c_1080p.m3u8",
   "sandbox": true
 },
-  "epl-afc-eve-3": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558483.m3u8",
+  "epl-tot-new-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558505.m3u8",
   "sandbox": true
 },
-  "epl-afc-eve-4": {
-  "url": "https://live3.ftlcbx.com/live/72221214_7f5fe91c82547e58230b674b1ec16fa4_1080p.m3u8",
-  "sandbox": true
-},
-
-
-  "serie-fros-juv-1": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
-  "sandbox": true
-},
-"serie-fros-juv-2": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
-  "sandbox": true
-},
-  "serie-fros-juv-3": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
-  "sandbox": true
-},
-  "serie-fros-juv-4": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=serie1",
+  "epl-tot-new-4": {
+  "url": "https://live3.ftlcbx.com/live/72221230_75dc20972521d89599f703c011e9360c_1080p.m3u8",
   "sandbox": true
 },
 
 
+  "bundesliga-dort-ham-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4566218.m3u8",
+  "sandbox": true
+},
+"bundesliga-dort-ham-2": {
+  "url": "https://live3.ftlcbx.com/live/72513150_79bdd102ffe0df9451160208e09f1fde_1080p.m3u8",
+  "sandbox": true
+},
+  "bundesliga-dort-ham-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4566218.m3u8",
+  "sandbox": true
+},
+  "bundesliga-dort-ham-4": {
+  "url": "https://live3.ftlcbx.com/live/72513150_79bdd102ffe0df9451160208e09f1fde_1080p.m3u8",
+  "sandbox": true
+},
 
-  "mls-miami-col-1": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://in-mc-flive.fancode.com/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785669128~_GO=Generated~acl=/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/*~Signature=Aej9sTVEc_-agT_rhrst9Z4YF09vnnWWgSmzmAKdOqZjjHAAOHeX5WzTrEfO9erQsIaqpUp06hczrR_I68S7QuvY3pYN",
+
+
+  "mls-miami-mont-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4460521.m3u8",
   "sandbox": true
 },
-"mls-miami-col-2": {
-  "url": "https://hls.live123.fans/live/4541772.m3u8",
+"mls-miami-mont-2": {
+  "url": "https://live3.ftlcbx.com/live/66299436_7f243563cd10c14eae61732b068106c8_1080p.m3u8",
   "sandbox": true
 },
-  "mls-miami-col-3": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4541772_gqzm.m3u8?auth_key=1785586864-0-0-8f1b42e206ad12ba38fe535980015f8e&token=a3ac1e0908047ae4&device=4&platform=rrty",
+  "mls-miami-mont-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4460521.m3u8",
   "sandbox": true
 },
-  "mls-miami-col-4": {
-  "url": "https://play.aarray.cn/rrty/sd-1-4541772_gqzm.m3u8?auth_key=1785586864-0-0-8f1b42e206ad12ba38fe535980015f8e&token=a3ac1e0908047ae4&device=4&platform=rrty",
+  "mls-miami-mont-4": {
+  "url": "https://live3.ftlcbx.com/live/66299436_7f243563cd10c14eae61732b068106c8_1080p.m3u8",
   "sandbox": true
 },
 
 
   
   
-"wc-eg-ir-1": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "2c338a117d434ce4bbe3569231af90f1": "a9633d901ee8a3f4f58ac314b5c5f4fb"
-      }
-    }
+"serie-juv-par-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549096.m3u8",
+  "sandbox": true
 },
-"wc-eg-ir-2": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
-  "sandbox": false
+"serie-juv-par-2": {
+  "url": "https://live3.ftlcbx.com/live/71945212_f271ad79a49708baba327edc29cd3d12_1080p.m3u8",
+  "sandbox": true
 },
-"wc-eg-ir-3": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
-      }
-    }
-  },
-  "wc-eg-ir-4": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
-      }
-    }
-  },
-  "wc-eg-ir-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
-      }
-    }
-  },
-  "wc-eg-ir-6": {
-  "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
-      }
-    }
-  },
-  "wc-eg-ir-7": {
-  "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
-      }
-    }
-  },
-  "wc-eg-ir-8": {
-  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
-      }
-    }
-  },
-  "wc-eg-ir-9": {
-  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-  "sandbox": false
+  "serie-juv-par-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549096.m3u8",
+  "sandbox": true
 },
-  "wc-eg-ir-10": {
-  "url": "https://za.teworld.online/mooott1_720/index.m3u8",
-  "sandbox": false
-},
-  "wc-eg-ir-11": {
-  "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
-  "sandbox": false
-},
-  "wc-eg-ir-12": {
-  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-  "sandbox": false
+  "serie-juv-par-4": {
+  "url": "https://live3.ftlcbx.com/live/71945212_f271ad79a49708baba327edc29cd3d12_1080p.m3u8",
+  "sandbox": true
 },
 
-  "wc-eg-ir-13": {
-  "url": "https://rglzdwqlaqpzfoofnohk.supabase.co/functions/v1/go?url=Q09k4OuvO9_v1Oak4MYmokrJdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUzf75IJq1aTL768EAv3ERq3qMu840zmHSo3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2",
-  "sandbox": false
+
+  "laliga-sevi-atle-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565355.m3u8",
+  "sandbox": true
+},
+"laliga-sevi-atle-2": {
+  "url": "https://live3.ftlcbx.com/live/72478524_30c83a1d52dc1e47fdd5c2fa460a47df_1080p.m3u8",
+  "sandbox": true
+},
+  "laliga-sevi-atle-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565355.m3u8",
+  "sandbox": true
+},
+  "laliga-sevi-atle-4": {
+  "url": "https://live3.ftlcbx.com/live/72478524_30c83a1d52dc1e47fdd5c2fa460a47df_1080p.m3u8",
+  "sandbox": true
 },
 
+
+
+  "laliga-real-esp-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565355.m3u8",
+  "sandbox": true
+},
+"laliga-real-esp-2": {
+  "url": "https://live3.ftlcbx.com/live/72478524_30c83a1d52dc1e47fdd5c2fa460a47df_1080p.m3u8",
+  "sandbox": true
+},
+  "laliga-real-esp-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565355.m3u8",
+  "sandbox": true
+},
+  "laliga-real-esp-4": {
+  "url": "https://live3.ftlcbx.com/live/72478524_30c83a1d52dc1e47fdd5c2fa460a47df_1080p.m3u8",
+  "sandbox": true
+},
 
 
   "wc-jo-ar-1": {
