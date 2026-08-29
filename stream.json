@@ -82,20 +82,20 @@
 
 
 
-  "epl-liv-nott-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558499.m3u8",
+  "epl-afc-eve-1": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558483.m3u8",
   "sandbox": true
 },
-"epl-liv-nott-2": {
-  "url": "https://live.ftlcbx.com/live/xvkjoi8yp9zs879_3e617df4c2a02a8e73287157360d01ff_1080p.m3u8",
+"epl-afc-eve-2": {
+  "url": "https://live3.ftlcbx.com/live/72221214_7f5fe91c82547e58230b674b1ec16fa4_1080p.m3u8",
   "sandbox": true
 },
-  "epl-liv-nott-3": {
-  "url": "https://hls.live123.fans/live/4543318.m3u8",
+  "epl-afc-eve-3": {
+  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558483.m3u8",
   "sandbox": true
 },
-  "epl-liv-nott-4": {
-  "url": "https://hls.live123.fans/live/4543318.m3u8",
+  "epl-afc-eve-4": {
+  "url": "https://live3.ftlcbx.com/live/72221214_7f5fe91c82547e58230b674b1ec16fa4_1080p.m3u8",
   "sandbox": true
 },
 
