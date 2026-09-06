@@ -82,37 +82,37 @@
 
 
 
-  "epl-villa-ars-1": {
+  "epl-eve-man-1": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558480.m3u8",
   "sandbox": true
 },
-"epl-villa-ars-2": {
+"epl-eve-man-2": {
   "url": "https://live3.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_1080p.m3u8",
   "sandbox": true
 },
-  "epl-villa-ars-3": {
+  "epl-eve-man-3": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558480.m3u8",
   "sandbox": true
 },
-  "epl-villa-ars-4": {
+  "epl-eve-man-4": {
   "url": "https://live3.ftlcbx.com/live/o17pjiomd68by7j_59e0142217a31319c436a4ba33bca3af_1080p.m3u8",
   "sandbox": true
 },
 
 
-  "epl-leed-bren-1": {
+  "epl-ars-che-1": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558496.m3u8",
   "sandbox": true
 },
-"epl-leed-bren-2": {
+"epl-ars-che-2": {
   "url": "https://live1.ftlcbx.com/live/72221222_bbd9e5ad9c52f0f9aa45a8f067ff5a90_h1080p.m3u8",
   "sandbox": true
 },
-  "epl-leed-bren-3": {
+  "epl-ars-che-3": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558496.m3u8",
   "sandbox": true
 },
-  "epl-leed-bren-4": {
+  "epl-ars-che-4": {
   "url": "https://live1.ftlcbx.com/live/72221222_bbd9e5ad9c52f0f9aa45a8f067ff5a90_h1080p.m3u8",
   "sandbox": true
 },
@@ -176,19 +176,19 @@
 
 
 
-  "laliga-barca-rayo-1": {
+  "laliga-vale-barca-1": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565344.m3u8",
   "sandbox": true
 },
-"laliga-barca-rayo-2": {
+"laliga-vale-barca-2": {
   "url": "https://live3.ftlcbx.com/live/72478512_0ae7f94fd0666ce83a831e4da75c0fc9_1080p.m3u8",
   "sandbox": true
 },
-  "laliga-barca-rayo-3": {
+  "laliga-vale-barca-3": {
   "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4565344.m3u8",
   "sandbox": true
 },
-  "laliga-barca-rayo-4": {
+  "laliga-vale-barca-4": {
   "url": "https://live3.ftlcbx.com/live/m2q15iz35jdfe76_8f02eae44aa45ff3b70870e5108ec998_1080p.m3u8",
   "sandbox": true
 },
