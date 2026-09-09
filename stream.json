@@ -82,113 +82,132 @@
 
 
 
-  "epl-eve-man-1": {
+  "ucl-barca-feye-1": {
   "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-"epl-eve-man-2": {
-  "url": "https://live3.ftlcbx.com/live/72221238_8f0946ffd677e9fe47bc9b7c91db19b3_1080p.m3u8",
+"ucl-barca-feye-2": {
+  "url": "https://live05.meung.app/live/14830711.m3u8",
   "sandbox": true
 },
-  "epl-eve-man-3": {
+  "ucl-barca-feye-3": {
   "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "epl-eve-man-4": {
-  "url": "https://live3.ftlcbx.com/live/72221238_8f0946ffd677e9fe47bc9b7c91db19b3_1080p.m3u8",
+  "ucl-barca-feye-4": {
+  "url": "https://live05.meung.app/live/14830711.m3u8",
   "sandbox": true
 },
 
 
-  "epl-ars-che-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558496.m3u8",
+  "ucl-liv-atl-1": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
-"epl-ars-che-2": {
-  "url": "https://live1.ftlcbx.com/live/72221222_bbd9e5ad9c52f0f9aa45a8f067ff5a90_h1080p.m3u8",
+"ucl-liv-atl-2": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
-  "epl-ars-che-3": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558496.m3u8",
+  "ucl-liv-atl-3": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
-  "epl-ars-che-4": {
-  "url": "https://live1.ftlcbx.com/live/72221222_bbd9e5ad9c52f0f9aa45a8f067ff5a90_h1080p.m3u8",
+  "ucl-liv-atl-4": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
 
 
 
-  "epl-sund-fulh-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558503.m3u8",
+  "ucl-psg-slov-1": {
+  "url": "https://live05.meung.app/live/33982309.m3u8",
   "sandbox": true
 },
-"epl-sund-fulh-2": {
-  "url": "https://live.ftlcbx.com/live/vmqy9iv95jxbgk9_29fe74eb605d48c527fd3dd88a2c5742_h1080p.m3u8",
+"ucl-psg-slov-2": {
+  "url": "https://live05.meung.app/live/90865415.m3u8",
   "sandbox": true
 },
-  "epl-sund-fulh-3": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4558503.m3u8",
+  "ucl-psg-slov-3": {
+  "url": "https://live05.meung.app/live/33982309.m3u8",
   "sandbox": true
 },
-  "epl-sund-fulh-4": {
-  "url": "https://live.ftlcbx.com/live/vmqy9iv95jxbgk9_29fe74eb605d48c527fd3dd88a2c5742_h1080p.m3u8",
+  "ucl-psg-slov-4": {
+  "url": "https://live05.meung.app/live/90865415.m3u8",
   "sandbox": true
 },
 
 
   
   
-"serie-napo-como-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549058.m3u8",
+"ucl-napo-ars-1": {
+  "url": "https://live05.meung.app/live/99121525.m3u8",
   "sandbox": true
 },
-"serie-napo-como-2": {
-  "url": "https://live1.ftlcbx.com/live/71945222_766d5067607067e79abcc59bca933fe1_autoChange.m3u8?auth_key=1788123281-0-0-a602a8ce25cf38f0eff2056de3febbc9",
+"ucl-napo-ars-2": {
+  "url": "https://live05.meung.app/live/99121525.m3u8",
   "sandbox": true
 },
-  "serie-napo-como-3": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=bein3",
+  "ucl-napo-ars-3": {
+  "url": "https://live05.meung.app/live/99121525.m3u8",
   "sandbox": true
 },
-  "serie-napo-como-4": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=tnt1",
-  "sandbox": true
-},
-
-
-  "serie-cagl-int-1": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549144.m3u8",
-  "sandbox": true
-},
-"serie-cagl-int-2": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549144.m3u8",
-  "sandbox": true
-},
-  "serie-cagl-int-3": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549144.m3u8",
-  "sandbox": true
-},
-  "serie-cagl-int-4": {
-  "url": "https://xzb-foranchor.xzb99.com/live/sd-1-4549144.m3u8",
+  "ucl-napo-ars-4": {
+  "url": "https://live05.meung.app/live/99121525.m3u8",
   "sandbox": true
 },
 
 
+  "ucl-che-leed-1": {
+  "url": "https://live05.meung.app/live/07808742.m3u8",
+  "sandbox": true
+},
+"ucl-che-leed-2": {
+  "url": "https://live05.meung.app/live/07808742.m3u8",
+  "sandbox": true
+},
+  "ucl-che-leed-3": {
+  "url": "https://live05.meung.app/live/07808742.m3u8",
+  "sandbox": true
+},
+  "ucl-che-leed-4": {
+  "url": "https://live05.meung.app/live/07808742.m3u8",
+  "sandbox": true
+},
 
-  "laliga-vale-barca-1": {
+
+
+  "saudi-nassr-abha-1": {
+  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "sandbox": true
+},
+"saudi-nassr-abha-2": {
+  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "sandbox": true
+},
+  "saudi-nassr-abha-3": {
+  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "sandbox": true
+},
+  "saudi-nassr-abha-4": {
+  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "sandbox": true
+},
+
+
+
+  "mls-miami-fire-1": {
   "url": "https://live05.meung.app/live/75748097.m3u8",
   "sandbox": true
 },
-"laliga-vale-barca-2": {
+"mls-miami-fire-2": {
   "url": "https://live.ftlcbx.com/live/o07dni5zey3bmkn_12b37ab5721488aedfabafe9bc236585_autoChange.m3u8?auth_key=1788718556-0-0-75ce2b18bc36ba264cab2d37dffe0ad1",
   "sandbox": true
 },
-  "laliga-vale-barca-3": {
+  "mls-miami-fire-3": {
   "url": "https://sportssnap.github.io/play/main?sportssnap=bein2",
   "sandbox": true
 },
-  "laliga-vale-barca-4": {
+  "mls-miami-fire-4": {
   "url": "https://live.ftlcbx.com/live/o07dni5zey3bmkn_12b37ab5721488aedfabafe9bc236585_autoChange.m3u8?auth_key=1788718556-0-0-75ce2b18bc36ba264cab2d37dffe0ad1",
   "sandbox": true
 },
