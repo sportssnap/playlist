@@ -82,133 +82,133 @@
 
 
 
-  "ucl-barca-feye-1": {
+  "laliga-leva-barca-1": {
+  "url": "https://live05.meung.app/live/75748097.m3u8",
+  "sandbox": true
+},
+"laliga-leva-barca-2": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
+  "sandbox": true
+},
+  "laliga-leva-barca-3": {
+  "url": "https://live05.meung.app/live/75748097.m3u8",
+  "sandbox": true
+},
+  "laliga-leva-barca-4": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
+  "sandbox": true
+},
+
+
+  "epl-united-city-1": {
   "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-"ucl-barca-feye-2": {
-  "url": "https://live05.meung.app/live/14830711.m3u8",
+"epl-united-city-2": {
+  "url": "https://live05.meung.app/live/78905744.m3u8",
   "sandbox": true
 },
-  "ucl-barca-feye-3": {
+  "epl-united-city-3": {
   "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "ucl-barca-feye-4": {
-  "url": "https://live05.meung.app/live/14830711.m3u8",
-  "sandbox": true
-},
-
-
-  "ucl-liv-atl-1": {
-  "url": "https://live05.meung.app/live/87379114.m3u8",
-  "sandbox": true
-},
-"ucl-liv-atl-2": {
-  "url": "https://live05.meung.app/live/87379114.m3u8",
-  "sandbox": true
-},
-  "ucl-liv-atl-3": {
-  "url": "https://live05.meung.app/live/87379114.m3u8",
-  "sandbox": true
-},
-  "ucl-liv-atl-4": {
-  "url": "https://live05.meung.app/live/87379114.m3u8",
+  "epl-united-city-4": {
+  "url": "https://live05.meung.app/live/78905744.m3u8",
   "sandbox": true
 },
 
 
 
-  "ucl-psg-slov-1": {
-  "url": "https://live05.meung.app/live/33982309.m3u8",
-  "sandbox": true
-},
-"ucl-psg-slov-2": {
+  "bundesliga-elv-bay-1": {
   "url": "https://live05.meung.app/live/90865415.m3u8",
   "sandbox": true
 },
-  "ucl-psg-slov-3": {
-  "url": "https://live05.meung.app/live/33982309.m3u8",
+"bundesliga-elv-bay-2": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
-  "ucl-psg-slov-4": {
+  "bundesliga-elv-bay-3": {
   "url": "https://live05.meung.app/live/90865415.m3u8",
+  "sandbox": true
+},
+  "bundesliga-elv-bay-4": {
+  "url": "https://live05.meung.app/live/87379114.m3u8",
   "sandbox": true
 },
 
 
   
   
-"ucl-napo-ars-1": {
-  "url": "https://live05.meung.app/live/99121525.m3u8",
-  "sandbox": true
-},
-"ucl-napo-ars-2": {
-  "url": "https://live05.meung.app/live/99121525.m3u8",
-  "sandbox": true
-},
-  "ucl-napo-ars-3": {
-  "url": "https://live05.meung.app/live/99121525.m3u8",
-  "sandbox": true
-},
-  "ucl-napo-ars-4": {
-  "url": "https://live05.meung.app/live/99121525.m3u8",
-  "sandbox": true
-},
-
-
-  "ucl-che-leed-1": {
+"seriea-napo-bolo-1": {
   "url": "https://live05.meung.app/live/07808742.m3u8",
   "sandbox": true
 },
-"ucl-che-leed-2": {
+"seriea-napo-bolo-2": {
   "url": "https://live05.meung.app/live/07808742.m3u8",
   "sandbox": true
 },
-  "ucl-che-leed-3": {
+  "seriea-napo-bolo-3": {
   "url": "https://live05.meung.app/live/07808742.m3u8",
   "sandbox": true
 },
-  "ucl-che-leed-4": {
+  "seriea-napo-bolo-4": {
   "url": "https://live05.meung.app/live/07808742.m3u8",
   "sandbox": true
 },
 
 
-
-  "saudi-nassr-abha-1": {
-  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "seriea-sas-juv-1": {
+  "url": "https://live05.meung.app/live/33982309.m3u8",
   "sandbox": true
 },
-"saudi-nassr-abha-2": {
-  "url": "https://live05.meung.app/live/16226575.m3u8",
+"seriea-sas-juv-2": {
+  "url": "https://live05.meung.app/live/90865415.m3u8",
   "sandbox": true
 },
-  "saudi-nassr-abha-3": {
-  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "seriea-sas-juv-3": {
+  "url": "https://live05.meung.app/live/33982309.m3u8",
   "sandbox": true
 },
-  "saudi-nassr-abha-4": {
-  "url": "https://live05.meung.app/live/16226575.m3u8",
+  "seriea-sas-juv-4": {
+  "url": "https://live05.meung.app/live/90865415.m3u8",
   "sandbox": true
 },
-
 
 
-  "mls-miami-fire-1": {
-  "url": "https://live05.meung.app/live/75748097.m3u8",
+
+  "ligue-bre-psg-1": {
+  "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-"mls-miami-fire-2": {
-  "url": "https://live05.meung.app/live/75748097.m3u8",
+"ligue-bre-psg-2": {
+  "url": "https://live05.meung.app/live/78905744.m3u8",
   "sandbox": true
 },
-  "mls-miami-fire-3": {
-  "url": "https://live05.meung.app/live/75748097.m3u8",
+  "ligue-bre-psg-3": {
+  "url": "https://live05.meung.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "mls-miami-fire-4": {
-  "url": "https://live05.meung.app/live/75748097.m3u8",
+  "ligue-bre-psg-4": {
+  "url": "https://live05.meung.app/live/78905744.m3u8",
+  "sandbox": true
+},
+
+
+
+  "laliga-soci-atle-1": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
+  "sandbox": true
+},
+"laliga-soci-atle-2": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
+  "sandbox": true
+},
+  "laliga-soci-atle-3": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
+  "sandbox": true
+},
+  "laliga-soci-atle-4": {
+  "url": "https://live05.meung.app/live/97885009.m3u8",
   "sandbox": true
 },
 
@@ -375,24 +375,24 @@
 
 
 
-  "test-eng-pk-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c5d4e1a6c051ac8e4ca3f901228e3a677c1d914135f818f9abe0eb8769adbeba61d6ef5ddc489e2e7f2137aaf0f0e1cf957c60905cf4da71fddfff094b482872",
+  "t20-afg-in-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d5d0106415f76992df5b311f8f2ada049a5ac3907b2db168bb13031250dde5a34d6424c3b0035a4cba105091bbd1e478730988c9373b664ee643d9b3c5720374",
   "sandbox": false
 },
-  "test-eng-pk-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c5d4e1a6c051ac8e4ca3f901228e3a677c1d914135f818f9abe0eb8769adbeba61d6ef5ddc489e2e7f2137aaf0f0e1cf957c60905cf4da71fddfff094b482872",
+  "t20-afg-in-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d5d0106415f76992df5b311f8f2ada049a5ac3907b2db168bb13031250dde5a34d6424c3b0035a4cba105091bbd1e478730988c9373b664ee643d9b3c5720374",
   "sandbox": false
 },
-  "test-eng-pk-3": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c5d4e1a6c051ac8e4ca3f901228e3a677c1d914135f818f9abe0eb8769adbeba61d6ef5ddc489e2e7f2137aaf0f0e1cf957c60905cf4da71fddfff094b482872",
+  "t20-afg-in-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d5d0106415f76992df5b311f8f2ada049a5ac3907b2db168bb13031250dde5a34d6424c3b0035a4cba105091bbd1e478730988c9373b664ee643d9b3c5720374",
   "sandbox": false
 },
-  "test-eng-pk-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c5d4e1a6c051ac8e4ca3f901228e3a677c1d914135f818f9abe0eb8769adbeba61d6ef5ddc489e2e7f2137aaf0f0e1cf957c60905cf4da71fddfff094b482872",
+  "t20-afg-in-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d5d0106415f76992df5b311f8f2ada049a5ac3907b2db168bb13031250dde5a34d6424c3b0035a4cba105091bbd1e478730988c9373b664ee643d9b3c5720374",
   "sandbox": false
 },
-  "test-eng-pk-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=c5d4e1a6c051ac8e4ca3f901228e3a677c1d914135f818f9abe0eb8769adbeba61d6ef5ddc489e2e7f2137aaf0f0e1cf957c60905cf4da71fddfff094b482872",
+  "t20-afg-in-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=d5d0106415f76992df5b311f8f2ada049a5ac3907b2db168bb13031250dde5a34d6424c3b0035a4cba105091bbd1e478730988c9373b664ee643d9b3c5720374",
   "sandbox": false
 },
 
