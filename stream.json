@@ -398,54 +398,47 @@
 
 
 
-  "t20-zw-sa-1": {
-  "url": "https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8",
+  "odi-zw-aus-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-zw-sa-2": {
-  "url": "https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8",
+  "odi-zw-aus-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-zw-sa-3": {
-  "url": "https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8",
+  "odi-zw-aus-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-zw-sa-4": {
-  "url": "https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8",
+  "odi-zw-aus-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-zw-sa-5": {
-  "url": "https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8",
+  "odi-zw-aus-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
 
 
 
-"t20-ban-aus-1": {
-  "url": "https://fuck-you.kasin-tv.com/fc/proxy.php/https%3A%2F%2Fallinonereborn.online%2Ffctest%2Fplaylists%2Fmatch_142969%2Fenglish.m3u8",
+"t20-eng-sri-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  
-  "t20-ban-aus-2": {
-  "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "d14658a0ede94debcb4013b2056ba6d1": "60838a3176127fed0eaf038a5575de11"
-      }
-    }
-  },
-
-  "t20-ban-aus-3": {
-  "url": "https://muc001.myturn1.top:8088/live/webcricm05/playlist.m3u8?vidictid=20623314276&id=114516&pk=dd5703b49c80fcd91c8dfbac3c0d3426855c4d863c7f1ed8f60254f0f01934bf9f3eee77065ef5f071b6039351343a8728daae8d3c1562370a578ab74b7d0d1e",
+  "t20-eng-sri-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-ban-aus-4": {
-  "url": "https://muc002.myturn1.top:8088/live/webcricwillow/playlist.m3u8?vidictid=206232032706&id=120375&pk=dd5703b49c80fcd91c8dfbac3c0d3426855c4d863c7f1ed8f60254f0f01934bf9f3eee77065ef5f071b6039351343a8728daae8d3c1562370a578ab74b7d0d1e",
+  "t20-eng-sri-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
-  "t20-ban-aus-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=b6d0d6873fd6e91f74e0b6d42379d6f24123d87e5fbb3a4ade6b89d27e4710defe3d41454e50d86aebf351567e11f5fcb4ccaac8ffb3a6120c75912ec30aa6a3",
+  "t20-eng-sri-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "sandbox": false
+},
+  "t20-eng-sri-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
   "sandbox": false
 },
 
