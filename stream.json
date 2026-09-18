@@ -399,11 +399,11 @@
 
 
   "odi-zw-aus-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c0c5af81dc001201f96d7e193cf475395a6857c93f6ec3c725e11ea08771df73b48d6239a3d72728183dc9898b1febf09a495b8612493834bea6446e3d3dbebc",
+  "url": "https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8",
   "sandbox": false
 },
   "odi-zw-aus-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c0c5af81dc001201f96d7e193cf475395a6857c93f6ec3c725e11ea08771df73b48d6239a3d72728183dc9898b1febf09a495b8612493834bea6446e3d3dbebc",
+  "url": "https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8",
   "sandbox": false
 },
   "odi-zw-aus-3": {
