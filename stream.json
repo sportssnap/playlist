@@ -459,23 +459,23 @@
 
 
 "t20-eng-sri-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
   "sandbox": false
 },
   "t20-eng-sri-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
   "sandbox": false
 },
   "t20-eng-sri-3": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
   "sandbox": false
 },
   "t20-eng-sri-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
   "sandbox": false
 },
   "t20-eng-sri-5": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=07a2417e74e7b2d88afab1b2cd74d888d21c273608e7670a5fa6474accc2772602845019d22b33627744cfae72585dba0d476947d62e3fc9029378d58c137eee",
+  "url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
   "sandbox": false
 },
 
