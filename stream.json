@@ -82,56 +82,56 @@
 
 
 
-  "epl-bre-che-1": {
-  "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
+  "epl-tot-villa-1": {
+  "url": "https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_1080p.m3u8",
   "sandbox": true
 },
-"epl-bre-che-2": {
-  "url": "https://live05.meung.app/live/14830711_tsc.m3u8",
+"epl-tot-villa-2": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-  "epl-bre-che-3": {
-  "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
+  "epl-tot-villa-3": {
+  "url": "https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_720p.m3u8",
   "sandbox": true
 },
-  "epl-bre-che-4": {
-  "url": "https://live05.meung.app/live/14830711_tsc.m3u8",
+  "epl-tot-villa-4": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
 
 
-  "bundesliga-bay-uni-1": {
+  "epl-bri-ars-1": {
   "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
-"bundesliga-bay-uni-2": {
+"epl-bri-ars-2": {
   "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
   "sandbox": true
 },
-  "bundesliga-bay-uni-3": {
+  "epl-bri-ars-3": {
   "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
-  "bundesliga-bay-uni-4": {
+  "epl-bri-ars-4": {
   "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
   "sandbox": true
 },
 
 
 
-  "uel-milan-ben-1": {
+  "epl-eve-tow-1": {
   "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
   "sandbox": true
 },
-"uel-milan-ben-2": {
+"epl-eve-tow-2": {
   "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
   "sandbox": true
 },
-  "uel-milan-ben-3": {
+  "epl-eve-tow-3": {
   "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
   "sandbox": true
 },
-  "uel-milan-ben-4": {
+  "epl-eve-tow-4": {
   "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
   "sandbox": true
 },
@@ -139,75 +139,112 @@
 
   
   
-"efl-city-villa-1": {
+"epl-new-hull-1": {
   "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
   "sandbox": true
 },
-"efl-city-villa-2": {
+"epl-new-hull-2": {
   "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
   "sandbox": true
 },
-  "efl-city-villa-3": {
+  "epl-new-hull-3": {
   "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
   "sandbox": true
 },
-  "efl-city-villa-4": {
+  "epl-new-hull-4": {
   "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
   "sandbox": true
 },
 
 
-  "efl-man-bri-1": {
+  "laliga-ath-dep-1": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-"efl-man-bri-2": {
+"laliga-ath-dep-2": {
   "url": "https://live05.meung.app/live/90865415_tsc.m3u8",
   "sandbox": true
 },
-  "efl-man-bri-3": {
+  "laliga-ath-dep-3": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-  "efl-man-bri-4": {
+  "laliga-ath-dep-4": {
   "url": "https://live05.meung.app/live/90865415_tsc.m3u8",
   "sandbox": true
 },
 
 
 
-  "laliga-barca-rac-1": {
+  "serie-roma-inter-1": {
   "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
   "sandbox": true
 },
-"laliga-barca-rac-2": {
+"serie-roma-inter-2": {
   "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-  "laliga-barca-rac-3": {
+  "serie-roma-inter-3": {
   "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
   "sandbox": true
 },
-  "laliga-barca-rac-4": {
+  "serie-roma-inter-4": {
   "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
 
 
 
-  "mls-miami-azul-1": {
+  "epl-nott-cov-1": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
-"mls-miami-azul-2": {
+"epl-nott-cov-2": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
-  "mls-miami-azul-3": {
+  "epl-nott-cov-3": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
-  "mls-miami-azul-4": {
+  "epl-nott-cov-4": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+
+
+  "bundesliga-vfb-dort-1": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+"bundesliga-vfb-dort-2": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+  "bundesliga-vfb-dort-3": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+  "bundesliga-vfb-dort-4": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+
+
+
+  "laliga-sev-barca-1": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+"laliga-sev-barca-2": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+  "laliga-sev-barca-3": {
+  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "sandbox": true
+},
+  "laliga-sev-barca-4": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
