@@ -82,76 +82,76 @@
 
 
 
-  "epl-tot-villa-1": {
-  "url": "https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_1080p.m3u8",
+  "epl-afc-liv-1": {
+  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
   "sandbox": true
 },
-"epl-tot-villa-2": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
+"epl-afc-liv-2": {
+  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
   "sandbox": true
 },
-  "epl-tot-villa-3": {
-  "url": "https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_720p.m3u8",
+  "epl-afc-liv-3": {
+  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
   "sandbox": true
 },
-  "epl-tot-villa-4": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
-  "sandbox": true
-},
-
-
-  "epl-bri-ars-1": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
-"epl-bri-ars-2": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-  "epl-bri-ars-3": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
-  "epl-bri-ars-4": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "epl-afc-liv-4": {
+  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
   "sandbox": true
 },
 
 
+  "epl-leed-cry-1": {
+  "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
+  "sandbox": true
+},
+"epl-leed-cry-2": {
+  "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
+  "sandbox": true
+},
+  "epl-leed-cry-3": {
+  "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
+  "sandbox": true
+},
+  "epl-leed-cry-4": {
+  "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
+  "sandbox": true
+},
 
-  "epl-eve-tow-1": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+
+
+  "epl-city-sund-1": {
+  "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789911003-0-0-02c806c2a6fc961558bcef7d7ee4d098",
   "sandbox": true
 },
-"epl-eve-tow-2": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+"epl-city-sund-2": {
+  "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789911003-0-0-02c806c2a6fc961558bcef7d7ee4d098",
   "sandbox": true
 },
-  "epl-eve-tow-3": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+  "epl-city-sund-3": {
+  "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789911003-0-0-02c806c2a6fc961558bcef7d7ee4d098",
   "sandbox": true
 },
-  "epl-eve-tow-4": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+  "epl-city-sund-4": {
+  "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789911003-0-0-02c806c2a6fc961558bcef7d7ee4d098",
   "sandbox": true
 },
 
 
   
   
-"epl-new-hull-1": {
+"epl-ful-man-1": {
   "url": "https://live.dyrur1.com/live/72221286_95e942d384e13ae6edbb1dc0b4dd8f90_autoChange.m3u8",
   "sandbox": true
 },
-"epl-new-hull-2": {
+"epl-ful-man-2": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
-  "epl-new-hull-3": {
+  "epl-ful-man-3": {
   "url": "https://live.dyrur1.com/live/72221286_95e942d384e13ae6edbb1dc0b4dd8f90_autoChange.m3u8",
   "sandbox": true
 },
-  "epl-new-hull-4": {
+  "epl-ful-man-4": {
   "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
   "sandbox": true
 },
