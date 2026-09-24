@@ -82,20 +82,20 @@
 
 
 
-  "epl-afc-liv-1": {
-  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
+  "friendlies-jap-uru-1": {
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-"epl-afc-liv-2": {
-  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
+"friendlies-jap-uru-2": {
+  "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
   "sandbox": true
 },
-  "epl-afc-liv-3": {
-  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
+  "friendlies-jap-uru-3": {
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-  "epl-afc-liv-4": {
-  "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789912084-0-0-0953f98a2862dc188e8275bf59ac74b7",
+  "friendlies-jap-uru-4": {
+  "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
   "sandbox": true
 },
 
