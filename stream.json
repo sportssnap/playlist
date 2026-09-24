@@ -435,23 +435,23 @@
 
 
 
-  "odi-zw-aus-1": {
-  "url": "https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8",
+  "odi-aus-afr-1": {
+  "url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
   "sandbox": false
 },
-  "odi-zw-aus-2": {
-  "url": "https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8",
+  "odi-aus-afr-2": {
+  "url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
   "sandbox": false
 },
-  "odi-zw-aus-3": {
+  "odi-aus-afr-3": {
+  "url": "https://002.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207201815785&id=1003&pk=5fe46114ebe64295c51548b22b66b03b91667b62cbfe7743790f4679f0b49d515e166351843c72445280f149fdfb5e1947ca248f8be7f118e9d61c2883e5f32f",
+  "sandbox": false
+},
+  "odi-aus-afr-4": {
   "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c0c5af81dc001201f96d7e193cf475395a6857c93f6ec3c725e11ea08771df73b48d6239a3d72728183dc9898b1febf09a495b8612493834bea6446e3d3dbebc",
   "sandbox": false
 },
-  "odi-zw-aus-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c0c5af81dc001201f96d7e193cf475395a6857c93f6ec3c725e11ea08771df73b48d6239a3d72728183dc9898b1febf09a495b8612493834bea6446e3d3dbebc",
-  "sandbox": false
-},
-  "odi-zw-aus-5": {
+  "odi-aus-afr-5": {
   "url": "https://001.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=c0c5af81dc001201f96d7e193cf475395a6857c93f6ec3c725e11ea08771df73b48d6239a3d72728183dc9898b1febf09a495b8612493834bea6446e3d3dbebc",
   "sandbox": false
 },
