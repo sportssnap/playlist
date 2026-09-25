@@ -82,37 +82,37 @@
 
 
 
-  "friendlies-jap-uru-1": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "friendlies-aus-bra-1": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-"friendlies-jap-uru-2": {
-  "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
+"friendlies-aus-bra-2": {
+  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
   "sandbox": true
 },
-  "friendlies-jap-uru-3": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "friendlies-aus-bra-3": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-  "friendlies-jap-uru-4": {
-  "url": "https://live05.meung.app/live/97885009_tsc.m3u8",
+  "friendlies-aus-bra-4": {
+  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
   "sandbox": true
 },
 
 
-  "epl-leed-cry-1": {
+  "friendlies-ind-pana-1": {
   "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
   "sandbox": true
 },
-"epl-leed-cry-2": {
+"friendlies-ind-pana-2": {
   "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
   "sandbox": true
 },
-  "epl-leed-cry-3": {
+  "friendlies-ind-pana-3": {
   "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
   "sandbox": true
 },
-  "epl-leed-cry-4": {
+  "friendlies-ind-pana-4": {
   "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789912443-0-0-ba025d1a46b791425a796dc6740395e8",
   "sandbox": true
 },
