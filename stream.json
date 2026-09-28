@@ -82,38 +82,38 @@
 
 
 
-  "uefa-eng-spa-1": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
-  "sandbox": true
+  "uefa-bel-fra-1": {
+  "url": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/bel-fra",
+  "sandbox": false
 },
-"uefa-eng-spa-2": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
-  "sandbox": true
+"uefa-bel-fra-2": {
+  "url": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/bel-fra",
+  "sandbox": false
 },
-  "uefa-eng-spa-3": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
-  "sandbox": true
+  "uefa-bel-fra-3": {
+  "url": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/bel-fra",
+  "sandbox": false
 },
-  "uefa-eng-spa-4": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
-  "sandbox": true
+  "uefa-bel-fra-4": {
+  "url": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/bel-fra",
+  "sandbox": false
 },
 
 
-  "uefa-cze-cro-1": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
+  "uefa-tur-ita-1": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-"uefa-cze-cro-2": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
+"uefa-tur-ita-2": {
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-cze-cro-3": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
+  "uefa-tur-ita-3": {
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-cze-cro-4": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
+  "uefa-tur-ita-4": {
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
 
@@ -366,24 +366,24 @@
 
 
 
-  "asian-jp-np-1": {
-  "url": "https://plu002.myturn1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=12a362b8f8c664df51805dfc6c0a93225ee642512b1eec8b0a01cf9053f14f9ba7ce6a8890fa648a7962b064f6f47b30a173d66d65d0e7efd607093662229f62",
+  "asian-sl-np-1": {
+  "url": "https://1freecdn.xyz/hembedplayer/csstream6/1/960/540",
   "sandbox": true
 },
-  "asian-jp-np-2": {
+  "asian-sl-np-2": {
   "url": "https://share.htmlput.com/p/a9e6qp1tgi",
   "sandbox": true
 },
-  "asian-jp-np-3": {
-  "url": "https://plu002.myturn1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=12a362b8f8c664df51805dfc6c0a93225ee642512b1eec8b0a01cf9053f14f9ba7ce6a8890fa648a7962b064f6f47b30a173d66d65d0e7efd607093662229f62",
+  "asian-sl-np-3": {
+  "url": "https://muc002.myturn1.top:8088/live/webcricn04/playlist.m3u8?vidictid=207249590228&id=114607&pk=f32db32c70788edbdeb5ee16a5fc7a83ca8c9f1d43f3a33c7e737b375e180c4530185d38a9b45f6a56610039a336b0eb27d2c132613777c8f7ae643ed6c3a592",
   "sandbox": true
 },
-  "asian-jp-np-4": {
-  "url": "https://plu002.myturn1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=12a362b8f8c664df51805dfc6c0a93225ee642512b1eec8b0a01cf9053f14f9ba7ce6a8890fa648a7962b064f6f47b30a173d66d65d0e7efd607093662229f62",
+  "asian-sl-np-4": {
+  "url": "https://1freecdn.xyz/hembedplayer/csstream6/1/960/540",
   "sandbox": true
 },
-  "asian-jp-np-5": {
-  "url": "https://allinonereborn2.online/events/player1.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2120302%2FAG_DXcri2509%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1790432053~acl%3D%2F*~id%3D69238082100345107468227651671902~hmac%3D049b2a8a20975fdbd0bd6e8b45ab2d3691a7ffd1564fdbdeb67ee6ea1333a346",
+  "asian-sl-np-5": {
+  "url": "https://1freecdn.xyz/hembedplayer/csstream6/1/960/540",
   "sandbox": true
 },
 
