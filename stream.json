@@ -120,19 +120,19 @@
 
 
   "uefa-spn-cze-1": {
-  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
 "uefa-spn-cze-2": {
-  "url": "https://live05.meung.app/live/87547578_tsc.m3u8",
-  "sandbox": true
-},
-  "uefa-spn-cze-3": {
   "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
+  "uefa-spn-cze-3": {
+  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "sandbox": true
+},
   "uefa-spn-cze-4": {
-  "url": "https://live05.meung.app/live/87547578_tsc.m3u8",
+  "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
 
@@ -140,19 +140,19 @@
   
   
 "friendlies-arg-bur-1": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
+  "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
   "sandbox": true
 },
 "friendlies-arg-bur-2": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-  "friendlies-arg-bur-3": {
   "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
+  "friendlies-arg-bur-3": {
+  "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
+  "sandbox": true
+},
   "friendlies-arg-bur-4": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
 
