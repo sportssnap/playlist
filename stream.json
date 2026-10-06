@@ -82,56 +82,56 @@
 
 
 
-  "uefa-gre-ger-1": {
+  "friendlies-ind-uru-1": {
   "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
   "sandbox": false
 },
-"uefa-gre-ger-2": {
-  "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
-  "sandbox": false
-},
-  "uefa-gre-ger-3": {
+"friendlies-ind-uru-2": {
   "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
   "sandbox": false
 },
-  "uefa-gre-ger-4": {
-  "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
+  "friendlies-ind-uru-3": {
+  "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
+  "sandbox": false
+},
+  "friendlies-ind-uru-4": {
+  "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
   "sandbox": false
 },
 
 
-  "uefa-neth-ser-1": {
+  "uefa-cro-spn-1": {
   "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
   "sandbox": true
 },
-"uefa-neth-ser-2": {
+"uefa-cro-spn-2": {
   "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-neth-ser-3": {
+  "uefa-cro-spn-3": {
   "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-neth-ser-4": {
+  "uefa-cro-spn-4": {
   "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
   "sandbox": true
 },
 
 
 
-  "uefa-por-nor-1": {
+  "uefa-eng-cze-1": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-"uefa-por-nor-2": {
+"uefa-eng-cze-2": {
   "url": "https://live05.meung.app/live/14830711_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-por-nor-3": {
+  "uefa-eng-cze-3": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-  "uefa-por-nor-4": {
+  "uefa-eng-cze-4": {
   "url": "https://live05.meung.app/live/14830711_tsc.m3u8",
   "sandbox": true
 },
@@ -139,37 +139,37 @@
 
   
   
-"friendlies-arg-bur-1": {
+"friendlies-arg-ben-1": {
   "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
   "sandbox": true
 },
-"friendlies-arg-bur-2": {
+"friendlies-arg-ben-2": {
   "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
-  "friendlies-arg-bur-3": {
+  "friendlies-arg-ben-3": {
   "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
   "sandbox": true
 },
-  "friendlies-arg-bur-4": {
+  "friendlies-arg-ben-4": {
   "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
   "sandbox": true
 },
 
 
-  "laliga-ath-dep-1": {
+  "friendlies-col-pru-1": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-"laliga-ath-dep-2": {
+"friendlies-col-pru-2": {
   "url": "https://live05.meung.app/live/90865415_tsc.m3u8",
   "sandbox": true
 },
-  "laliga-ath-dep-3": {
+  "friendlies-col-pru-3": {
   "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
   "sandbox": true
 },
-  "laliga-ath-dep-4": {
+  "friendlies-col-pru-4": {
   "url": "https://live05.meung.app/live/90865415_tsc.m3u8",
   "sandbox": true
 },
