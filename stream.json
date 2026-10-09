@@ -435,47 +435,47 @@
 
 
 
-  "odi-aus-afr-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=02a9f092975ca06ecc1a66e72a5f6b096d81dd1a26bf4c25f5996ad04c77f9773f9b6c792e9ff85ab5aae7e287035bf26b4346ee045fbff18a7d331eafa6298a",
+  "test-aus-afr-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-aus-afr-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=02a9f092975ca06ecc1a66e72a5f6b096d81dd1a26bf4c25f5996ad04c77f9773f9b6c792e9ff85ab5aae7e287035bf26b4346ee045fbff18a7d331eafa6298a",
+  "test-aus-afr-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-aus-afr-3": {
-  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=02a9f092975ca06ecc1a66e72a5f6b096d81dd1a26bf4c25f5996ad04c77f9773f9b6c792e9ff85ab5aae7e287035bf26b4346ee045fbff18a7d331eafa6298a",
+  "test-aus-afr-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-aus-afr-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=02a9f092975ca06ecc1a66e72a5f6b096d81dd1a26bf4c25f5996ad04c77f9773f9b6c792e9ff85ab5aae7e287035bf26b4346ee045fbff18a7d331eafa6298a",
+  "test-aus-afr-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-aus-afr-5": {
-  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=02a9f092975ca06ecc1a66e72a5f6b096d81dd1a26bf4c25f5996ad04c77f9773f9b6c792e9ff85ab5aae7e287035bf26b4346ee045fbff18a7d331eafa6298a",
+  "test-aus-afr-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
 
 
 
-"odi-eng-sri-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=d5950a5c78941ae031998ac711d07ebf0db101de71db740b4b1bfb74c92f4ef74cb087ef426327b827cb2f85f6a3a3182619cf5a527ce6f42f181bcc44d34d4d",
+"test-afg-ban-1": {
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-eng-sri-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=d5950a5c78941ae031998ac711d07ebf0db101de71db740b4b1bfb74c92f4ef74cb087ef426327b827cb2f85f6a3a3182619cf5a527ce6f42f181bcc44d34d4d",
+  "test-afg-ban-2": {
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-eng-sri-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=d5950a5c78941ae031998ac711d07ebf0db101de71db740b4b1bfb74c92f4ef74cb087ef426327b827cb2f85f6a3a3182619cf5a527ce6f42f181bcc44d34d4d",
+  "test-afg-ban-3": {
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-eng-sri-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=d5950a5c78941ae031998ac711d07ebf0db101de71db740b4b1bfb74c92f4ef74cb087ef426327b827cb2f85f6a3a3182619cf5a527ce6f42f181bcc44d34d4d",
+  "test-afg-ban-4": {
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
-  "odi-eng-sri-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=d5950a5c78941ae031998ac711d07ebf0db101de71db740b4b1bfb74c92f4ef74cb087ef426327b827cb2f85f6a3a3182619cf5a527ce6f42f181bcc44d34d4d",
+  "test-afg-ban-5": {
+  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=898ca8edf2cbe4f4f114092fe20fa3a43850cc5b96babc6208635fdde25f5ff98baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": false
 },
 
