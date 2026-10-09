@@ -366,24 +366,24 @@
 
 
 
-  "asian-sri-ind-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream6/playlist.m3u8?id=1006&pk=5beb009cf758b6a06942453713c685ec6885f5d7909b953e584efac8e11665c94fb7329c382d304c8e3914ec7a178aed5d3196585d7c6bcca03620c48a60ad36",
+  "t20-pak-sri-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=516a434dae05a6a1dab87647d13505544d6186046606080d14e6dc9491ea93238baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": true
 },
-  "asian-sri-ind-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream6/playlist.m3u8?id=1006&pk=5beb009cf758b6a06942453713c685ec6885f5d7909b953e584efac8e11665c94fb7329c382d304c8e3914ec7a178aed5d3196585d7c6bcca03620c48a60ad36",
+  "t20-pak-sri-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=516a434dae05a6a1dab87647d13505544d6186046606080d14e6dc9491ea93238baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": true
 },
-  "asian-sri-ind-3": {
-  "url": "https://001.cdnplayer.eu/live/csstream6/playlist.m3u8?id=1006&pk=5beb009cf758b6a06942453713c685ec6885f5d7909b953e584efac8e11665c94fb7329c382d304c8e3914ec7a178aed5d3196585d7c6bcca03620c48a60ad36",
+  "t20-pak-sri-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=516a434dae05a6a1dab87647d13505544d6186046606080d14e6dc9491ea93238baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": true
 },
-  "asian-sri-ind-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream6/playlist.m3u8?id=1006&pk=5beb009cf758b6a06942453713c685ec6885f5d7909b953e584efac8e11665c94fb7329c382d304c8e3914ec7a178aed5d3196585d7c6bcca03620c48a60ad36",
+  "t20-pak-sri-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=516a434dae05a6a1dab87647d13505544d6186046606080d14e6dc9491ea93238baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": true
 },
-  "asian-sri-ind-5": {
-  "url": "https://001.cdnplayer.eu/live/csstream6/playlist.m3u8?id=1006&pk=5beb009cf758b6a06942453713c685ec6885f5d7909b953e584efac8e11665c94fb7329c382d304c8e3914ec7a178aed5d3196585d7c6bcca03620c48a60ad36",
+  "t20-pak-sri-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=516a434dae05a6a1dab87647d13505544d6186046606080d14e6dc9491ea93238baf935c9369d7b7ed735c783ca0ee1c6b2fb40d58da7dcce9ae7bc7f05e0ad7",
   "sandbox": true
 },
 
