@@ -385,46 +385,46 @@
 
 
 
-  "t20-pak-sri-1": {
+  "odi-pak-sri-1": {
   "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
   "sandbox": true
 },
-  "t20-pak-sri-2": {
+  "odi-pak-sri-2": {
   "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
   "sandbox": true
 },
-  "t20-pak-sri-3": {
+  "odi-pak-sri-3": {
   "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
   "sandbox": true
 },
-  "t20-pak-sri-4": {
+  "odi-pak-sri-4": {
   "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
   "sandbox": true
 },
-  "t20-pak-sri-5": {
+  "odi-pak-sri-5": {
   "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
   "sandbox": true
 },
 
 
 
-  "npl-lions-royals-1": {
+  "npl-kings-rhinos-1": {
   "url": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8",
   "sandbox": true
 },
-  "npl-lions-royals-2": {
+  "npl-kings-rhinos-2": {
   "url": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8",
   "sandbox": true
 },
-  "npl-lions-royals-3": {
+  "npl-kings-rhinos-3": {
   "url": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8",
   "sandbox": true
 },
-  "npl-lions-royals-4": {
+  "npl-kings-rhinos-4": {
   "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250356_ENG%2Fenglish.m3u8",
   "sandbox": true
 },
-  "npl-lions-royals-5": {
+  "npl-kings-rhinos-5": {
   "url": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8",
   "sandbox": true
 },
