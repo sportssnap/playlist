@@ -413,11 +413,11 @@
   "sandbox": true
 },
   "npl-kings-rhinos-2": {
-  "url": "https://player.kick.com/wolfislive",
+  "url": "https://hugh.cdn.rumble.cloud/live/u7gf26qm/live-hls/wt3l-v3vn/chunklist_i1_DVR.m3u8",
   "sandbox": true
 },
   "npl-kings-rhinos-3": {
-  "url": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8",
+  "url": "https://player.kick.com/wolfislive",
   "sandbox": true
 },
   "npl-kings-rhinos-4": {
