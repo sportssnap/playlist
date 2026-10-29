@@ -1,508 +1,444 @@
 {
-  
   "wc-es-ar-1": {
-  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
+    "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
       }
     }
-},
-"wc-es-ar-2": {
-  "url": "https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_720p.m3u8",
-  "sandbox": false
-},
-"wc-es-ar-3": {
-  "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-  "sandbox": true
-},
+  },
+  "wc-es-ar-2": {
+    "url": "https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_720p.m3u8",
+    "sandbox": false
+  },
+  "wc-es-ar-3": {
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    "sandbox": true
+  },
   "wc-es-ar-4": {
-  "url": "https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_1080p.m3u8",
-  "sandbox": true
-},
+    "url": "https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e_1080p.m3u8",
+    "sandbox": true
+  },
   "wc-es-ar-5": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
-  "sandbox": false
-},
+    "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
+    "sandbox": false
+  },
   "wc-es-ar-6": {
-  "url": "https://mut001.myturn1.top:8088/live/webcricfifa2/playlist.m3u8?vidictid=206539177963&id=117658&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
-  "sandbox": false
-},
+    "url": "https://mut001.myturn1.top:8088/live/webcricfifa2/playlist.m3u8?vidictid=206539177963&id=117658&pk=5942118f1d7de4d65b7967cb17fbcf35bd922864dfc33634afee04573168d305efbe6729dd1477c5f6622348ddde226019cb1dfca468c159c1e441337c264a14",
+    "sandbox": false
+  },
   "wc-es-ar-7": {
-  "url": "https://stream.sports3.win/iptv/live/tsn.m3u8",
-  "sandbox": false
-    
+    "url": "https://stream.sports3.win/iptv/live/tsn.m3u8",
+    "sandbox": false
   },
   "wc-es-ar-8": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=caze",
-  "sandbox": false
-},
+    "url": "https://sportssnap.github.io/play/main?sportssnap=caze",
+    "sandbox": false
+  },
   "wc-es-ar-9": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=tudn",
-  "sandbox": false
-},
+    "url": "https://sportssnap.github.io/play/main?sportssnap=tudn",
+    "sandbox": false
+  },
   "wc-es-ar-10": {
-  "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-  "sandbox": false
-},
+    "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+    "sandbox": false
+  },
   "wc-es-ar-11": {
-  "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
-  "sandbox": false
-},
+    "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+    "sandbox": false
+  },
   "wc-es-ar-12": {
-  "url": "https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784392153913",
-  "sandbox": false
-},
-
+    "url": "https://live01-cn-ali.bvjicd.com/live/79361366.m3u8?nocache=1784392153913",
+    "sandbox": false
+  },
   "wc-es-ar-13": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
-  "sandbox": false
-},
-
-
-
-  
-"ufc-dhant-murdoch-1": {
-  "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
-  "sandbox": true
-},
-"ufc-dhant-murdoch-2": {
-  "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
-  "sandbox": true
-},
+    "url": "https://sportssnap.github.io/play/main?sportssnap=bein",
+    "sandbox": false
+  },
+  "ufc-dhant-murdoch-1": {
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
+    "sandbox": true
+  },
+  "ufc-dhant-murdoch-2": {
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
+    "sandbox": true
+  },
   "ufc-dhant-murdoch-3": {
-  "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
-  "sandbox": true
-},
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
+    "sandbox": true
+  },
   "ufc-dhant-murdoch-4": {
-  "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/5rp5-3pww/chunklist_i1_DVR.m3u8",
+    "sandbox": true
+  },
   "seriea-int-fio-1": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": false
-},
-"seriea-int-fio-2": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": false
-},
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": false
+  },
+  "seriea-int-fio-2": {
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": false
+  },
   "seriea-int-fio-3": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": false
-},
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": false
+  },
   "seriea-int-fio-4": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": false
-},
-
-
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": false
+  },
   "epl-liv-bri-1": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
-"epl-liv-bri-2": {
-  "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
+  "epl-liv-bri-2": {
+    "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
   "epl-liv-bri-3": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
   "epl-liv-bri-4": {
-  "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
   "epl-man-afc-1": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-"epl-man-afc-2": {
-  "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
+  "epl-man-afc-2": {
+    "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+    "sandbox": true
+  },
   "epl-man-afc-3": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
   "epl-man-afc-4": {
-  "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-  "sandbox": true
-},
-
-
-  
-  
-"bundesliga-fre-bay-1": {
-  "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
-"bundesliga-fre-bay-2": {
-  "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+    "sandbox": true
+  },
+  "bundesliga-fre-bay-1": {
+    "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
+  "bundesliga-fre-bay-2": {
+    "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
   "bundesliga-fre-bay-3": {
-  "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.zhwpg.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
   "bundesliga-fre-bay-4": {
-  "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-
-
+    "url": "https://live05.zhwpg.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
   "seriea-lec-juv-1": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-"seriea-lec-juv-2": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
+  "seriea-lec-juv-2": {
+    "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
   "seriea-lec-juv-3": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
   "seriea-lec-juv-4": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-real-1": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-"laliga-barca-real-2": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
+  "laliga-barca-real-2": {
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-real-3": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-real-4": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-geta-1": {
-  "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
-  "sandbox": true
-},
-"laliga-barca-geta-2": {
-  "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
-  "sandbox": true
-},
+    "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
+    "sandbox": true
+  },
+  "laliga-barca-geta-2": {
+    "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-geta-3": {
-  "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-barca-geta-4": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
-  "sandbox": true
-},
-
-
+    "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
+    "sandbox": true
+  },
   "ligue1-psg-man-1": {
-  "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
-  "sandbox": true
-},
-"ligue1-psg-man-2": {
-  "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
-  "sandbox": true
-},
+    "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
+    "sandbox": true
+  },
+  "ligue1-psg-man-2": {
+    "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
+    "sandbox": true
+  },
   "ligue1-psg-man-3": {
-  "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
+    "sandbox": true
+  },
   "ligue1-psg-man-4": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-real-villa-1": {
-  "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
-  "sandbox": true
-},
-"laliga-real-villa-2": {
-  "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
-  "sandbox": true
-},
+    "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
+    "sandbox": true
+  },
+  "laliga-real-villa-2": {
+    "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
+    "sandbox": true
+  },
   "laliga-real-villa-3": {
-  "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
+    "sandbox": true
+  },
   "laliga-real-villa-4": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+    "sandbox": true
+  },
   "mls-miami-dc-1": {
-  "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
-  "sandbox": true
-},
-"mls-miami-dc-2": {
-  "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
+    "sandbox": true
+  },
+  "mls-miami-dc-2": {
+    "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
+    "sandbox": true
+  },
   "mls-miami-dc-3": {
-  "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
-  "sandbox": true
-},
+    "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
+    "sandbox": true
+  },
   "mls-miami-dc-4": {
-  "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
-  "sandbox": true
-},
-
-
+    "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
+    "sandbox": true
+  },
   "wc-jo-ar-1": {
-  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
+    "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
       }
     }
-},
-"wc-jo-ar-2": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
-  "sandbox": false
-},
-"wc-jo-ar-3": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
+  },
+  "wc-jo-ar-2": {
+    "url": "https://hlsplayers.pages.dev/player3?url=https://live1.egmdispatch.com/live/66457014_c8f0764b173a473bb035d8688a8dd8b4_autoChange.m3u8",
+    "sandbox": false
+  },
+  "wc-jo-ar-3": {
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
   "wc-jo-ar-4": {
-  "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
+    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "549ab7cd35a64bb6bb479ecead04d69d": "829799ed534d11fcadeb4b192467e050"
       }
     }
   },
   "wc-jo-ar-5": {
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "83f81c4cc1443991543de4e22eea7586": "ddfd7ca653d6f35543d8edb3c688e20f"
       }
     }
   },
   "wc-jo-ar-6": {
-  "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+    "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
       }
     }
   },
   "wc-jo-ar-7": {
-  "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
+    "url": "https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
       }
     }
   },
   "wc-jo-ar-8": {
-  "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-  "sandbox": false,
-  "drm": {
-    "clearKeys": {
-      "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+    "sandbox": false,
+    "drm": {
+      "clearKeys": {
+        "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
       }
     }
   },
   "wc-jo-ar-9": {
-  "url": "https://live1.egmdispatch.com/live/66457026_e9f8173541258c8bcfa78250eb2a0e17_autoChange.m3u8",
-  "sandbox": false
-},
+    "url": "https://live1.egmdispatch.com/live/66457026_e9f8173541258c8bcfa78250eb2a0e17_autoChange.m3u8",
+    "sandbox": false
+  },
   "wc-jo-ar-10": {
-  "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
-  "sandbox": false
-},
+    "url": "https://hlsplayers.pages.dev/player3?url=https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
+    "sandbox": false
+  },
   "wc-jo-ar-11": {
-  "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
-  "sandbox": false
-},
+    "url": "https://play.gzxdby.com/live/183334344568_2547627111_1080p.m3u8",
+    "sandbox": false
+  },
   "wc-jo-ar-12": {
-  "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460931.m3u8?txSecret=f4f8576ebb6f5331224a8c39031fc912&txTime=6A41CF48",
-  "sandbox": false
-},
-
+    "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4460931.m3u8?txSecret=f4f8576ebb6f5331224a8c39031fc912&txTime=6A41CF48",
+    "sandbox": false
+  },
   "wc-jo-ar-13": {
-  "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
-  "sandbox": false
-},
-  
-  
-
-
-  
+    "url": "https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8",
+    "sandbox": false
+  },
   "test-lk-in-1": {
-  "url": "https://sportssnap.github.io/play/main?sportssnap=tnt1",
-  "sandbox": false
-},
+    "url": "https://sportssnap.github.io/play/main?sportssnap=tnt1",
+    "sandbox": false
+  },
   "test-lk-in-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=cb9559f8bc2cc8cbd00254c675b4973cb0c49691238cf868ceb1bcaefffe4f37a965f31cdbfbe26bc502f7704bf7fc676c3650ba93da51ddf9deda678de3cf62",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=cb9559f8bc2cc8cbd00254c675b4973cb0c49691238cf868ceb1bcaefffe4f37a965f31cdbfbe26bc502f7704bf7fc676c3650ba93da51ddf9deda678de3cf62",
+    "sandbox": false
+  },
   "test-lk-in-3": {
-  "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
-  "sandbox": false
-},
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
+    "sandbox": false
+  },
   "test-lk-in-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=cb9559f8bc2cc8cbd00254c675b4973cb0c49691238cf868ceb1bcaefffe4f37a965f31cdbfbe26bc502f7704bf7fc676c3650ba93da51ddf9deda678de3cf62",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=cb9559f8bc2cc8cbd00254c675b4973cb0c49691238cf868ceb1bcaefffe4f37a965f31cdbfbe26bc502f7704bf7fc676c3650ba93da51ddf9deda678de3cf62",
+    "sandbox": false
+  },
   "test-lk-in-5": {
-  "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
-  "sandbox": false
-},
-
-
-
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8",
+    "sandbox": false
+  },
   "odi-eng-sri-1": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "odi-eng-sri-2": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "odi-eng-sri-3": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "odi-eng-sri-4": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "odi-eng-sri-5": {
-  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
-
-
-
+    "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "npl-bolts-gurkhas-1": {
-  "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
-  "sandbox": true
-},
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
+    "sandbox": true
+  },
   "npl-bolts-gurkhas-2": {
-  "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
-  "sandbox": true
-},
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
+    "sandbox": true
+  },
   "npl-bolts-gurkhas-3": {
-  "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
-  "sandbox": true
-},
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
+    "sandbox": true
+  },
   "npl-bolts-gurkhas-4": {
-  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250359_ENG%2Fenglish.m3u8",
-  "sandbox": true
-},
+    "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250359_ENG%2Fenglish.m3u8",
+    "sandbox": true
+  },
   "npl-bolts-gurkhas-5": {
-  "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
-  "sandbox": true
-},
-
-
-
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8",
+    "sandbox": true
+  },
   "t20-ind-zea-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+    "sandbox": false
+  },
   "t20-ind-zea-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream1/playlist.m3u8?id=1001&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+    "sandbox": false
+  },
   "t20-ind-zea-3": {
-  "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fojpgrthnnt%2Fout%2Fv1%2F52619efcaa3e473295a6fd19dd6e9437%2Fcenc.mpd&name=WILLOW+FHD&title=New+Zealand+Vs+India&category=Cricket&kid=b1ee06e6e306aa92e9a4658f739a1596&key=b993e1f264c6a637cd28427242f5f967&type=mpd",
-  "sandbox": true
-},
+    "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fojpgrthnnt%2Fout%2Fv1%2F52619efcaa3e473295a6fd19dd6e9437%2Fcenc.mpd&name=WILLOW+FHD&title=New+Zealand+Vs+India&category=Cricket&kid=b1ee06e6e306aa92e9a4658f739a1596&key=b993e1f264c6a637cd28427242f5f967&type=mpd",
+    "sandbox": true
+  },
   "t20-ind-zea-4": {
-  "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Ffra-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fot99hqbbfg%2Fout%2Fv1%2Fd5879616029b431698a8c9446cbe58ec%2Fcenc.mpd&name=PRIME+VIDEO+%28HINDI%29&title=New+Zealand+Vs+India&category=Cricket&kid=4dcd41b8ecbc6d0182037e457e2baec9&key=14a48156510444cc189cdf12c1249670&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&type=mpd",
-  "sandbox": true
+    "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.live.fly.ww.aiv-cdn.net%2Ffra-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fot99hqbbfg%2Fout%2Fv1%2Fd5879616029b431698a8c9446cbe58ec%2Fcenc.mpd&name=PRIME+VIDEO+%28HINDI%29&title=New+Zealand+Vs+India&category=Cricket&kid=4dcd41b8ecbc6d0182037e457e2baec9&key=14a48156510444cc189cdf12c1249670&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&type=mpd",
+    "sandbox": true
   },
   "t20-ind-zea-5": {
-  "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Frhf2dwosdt%2Fout%2Fv1%2Fee550d2a68d846c797e6ce4de2e8b76d%2Fcenc.mpd&name=TNT1UK+SPORTS+FHD+&title=New+Zealand+Vs+India&category=Cricket&kid=69a5aa835a061ce64a630d1046727e40&key=d02feac8a999bd06bf4059bf33411749&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&type=mpd",
-  "sandbox": true
-},
-
-
-
+    "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fiad-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Frhf2dwosdt%2Fout%2Fv1%2Fee550d2a68d846c797e6ce4de2e8b76d%2Fcenc.mpd&name=TNT1UK+SPORTS+FHD+&title=New+Zealand+Vs+India&category=Cricket&kid=69a5aa835a061ce64a630d1046727e40&key=d02feac8a999bd06bf4059bf33411749&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&type=mpd",
+    "sandbox": true
+  },
   "test-aus-afr-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": false
+  },
   "test-aus-afr-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": false
+  },
   "test-aus-afr-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "test-aus-afr-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
+    "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
   "test-aus-afr-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
-  "sandbox": true
-},
-
-
-
-"test-afg-ban-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+    "sandbox": true
+  },
+  "test-afg-ban-1": {
+    "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
+    "sandbox": false
+  },
   "test-afg-ban-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
+    "sandbox": false
+  },
   "test-afg-ban-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
+    "sandbox": false
+  },
   "test-afg-ban-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
-  "sandbox": false
-},
+    "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
+    "sandbox": false
+  },
   "test-afg-ban-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
-  "sandbox": false
-},
-
-
-  
-  
-
-  
+    "url": "https://002.cdnplayer.eu/live/csstream4/playlist.m3u8?id=1004&pk=97f52046469ab0c113d2b8b6ca77e92a39328d0f4c1b19e77eb2bd2b7d2ffd4fba03e9d0a9eaa487ece9284f7b202ef89c7e528bf0ee589f29d4b9e4f8aeecb9",
+    "sandbox": false
+  },
   "protected-match": {
     "url": "https://example.com/stream.mpd",
     "sandbox": false,
