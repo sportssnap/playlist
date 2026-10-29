@@ -385,24 +385,24 @@
 
 
 
-  "odi-pak-sri-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "odi-eng-sri-1": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
-  "odi-pak-sri-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "odi-eng-sri-2": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
-  "odi-pak-sri-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "odi-eng-sri-3": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
-  "odi-pak-sri-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "odi-eng-sri-4": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
-  "odi-pak-sri-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "odi-eng-sri-5": {
+  "url": "https://001.cdnplayer.eu/live/csstream2/playlist.m3u8?id=1002&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
 
@@ -455,23 +455,23 @@
 
 
   "test-aus-afr-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": false
 },
   "test-aus-afr-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": false
 },
   "test-aus-afr-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
   "test-aus-afr-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=3d079c9da801d9bcf58216bb498406a026f9a9e5c4a5ab1255ef6f24a4c99c01c5ce426fe5d642e39ea30f4677895788de3c24c73011780fb1972734e8b36ac8",
+  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
   "test-aus-afr-5": {
-  "url": "https://allinone-sports.pages.dev/player?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ftll6uwepxa%2Fout%2Fv1%2Fa7f67cbb33df46539312956427343886%2Fcenc.mpd&name=WILLOW+SPORTS+HD&title=South+Africa+Vs+Australia&category=Cricket&kid=290e09c837da78d5cd961978d390515c&key=b748836c71e6a4ca68ef5b5652db6247&type=mpd",
+  "url": "https://002.cdnplayer.eu/live/csstream3/playlist.m3u8?id=1003&pk=7b92ebcc3150710daa9530941175003944e34275282c24a9133e5922ed2cb7b4dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
   "sandbox": true
 },
 
