@@ -408,24 +408,24 @@
 
 
 
-  "npl-bolts-avengers-1": {
-  "url": "https://ott-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI2IDEwOjU0OjQ0IEFNJmhhc2hfdmFsdWU9bUJJY1d6U2Y1ck03a3dwMVZKc3I1QT09JnZhbGlkbWludXRlcz0yNDAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM09UTTFPVFU1TVRVc0luTjFZbk5qY21saVpYSmZhV1FpT2lJMU5EUTNPVFlpTENKemRHSWlPaUpuYkY4eE1UWTROelF3TkRJMU1qSTJOakE1TWpJeU56Z3RNVEEzSW4wLlhqSjNBNHpGV0lqVkhVZ3M2SDlja1NEYlVkR29HdTVYaTZFeENZY0FKY0U=&CMCD=br%3D10000%2Cot%3Dm%2Cmtp%3D10000%2Csu%2Ccid%3D%22a-rz--cricket--Us2103164693882503209%22%2Csf%3Dh%2Csid%3D%222e92d416-6535-4460-8103-dbc8e0b3c0d7%22%2Cst%3Dv",
+  "npl-gurkhas-yaks-1": {
+  "url": "https://ott-int-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8",
   "sandbox": true
 },
-  "npl-bolts-avengers-2": {
-  "url": "https://ott-nlive.nettvstreamz.com/npl/live_match6/tracks-v1a1/mono.m3u8?CMCD=br%3D4194%2Cot%3Dm%2Cmtp%3D4194%2Csu%2Ccid%3D%22a-rz--cricket--Us2103164693882503209%22%2Csf%3Dh%2Csid%3D%227b52dbed-1cf8-4c1c-899a-dcbeaab7758f%22%2Cst%3Dv&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI2IDEwOjU0OjQ0IEFNJmhhc2hfdmFsdWU9bUJJY1d6U2Y1ck03a3dwMVZKc3I1QT09JnZhbGlkbWludXRlcz0yNDAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM09UTTFPVFU1TVRVc0luTjFZbk5qY21saVpYSmZhV1FpT2lJMU5EUTNPVFlpTENKemRHSWlPaUpuYkY4eE1UWTROelF3TkRJMU1qSTJOakE1TWpJeU56Z3RNVEEzSW4wLlhqSjNBNHpGV0lqVkhVZ3M2SDlja1NEYlVkR29HdTVYaTZFeENZY0FKY0U=&CMCD=br%3D10000%2Cot%3Dm%2Cmtp%3D10000%2Csu%2Ccid%3D%22a-rz--cricket--Us2103164693882503209%22%2Csf%3Dh%2Csid%3D%222e92d416-6535-4460-8103-dbc8e0b3c0d7%22%2Cst%3Dv",
+  "npl-gurkhas-yaks-2": {
+  "url": "https://ott-int-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8",
   "sandbox": true
 },
-  "npl-bolts-avengers-3": {
-  "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
+  "npl-gurkhas-yaks-3": {
+  "url": "https://ott-nettv-02.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
   "sandbox": true
 },
-  "npl-bolts-avengers-4": {
-  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250363_ENG%2Fenglish.m3u8",
+  "npl-gurkhas-yaks-4": {
+  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250364_ENG%2Fenglish.m3u8",
   "sandbox": true
 },
-  "npl-bolts-avengers-5": {
-  "url": "https://ott-nlive.nettvstreamz.com/npl/live_match6/tracks-v1a1/mono.m3u8?CMCD=br%3D4194%2Cot%3Dm%2Cmtp%3D4194%2Csu%2Ccid%3D%22a-rz--cricket--Us2103164693882503209%22%2Csf%3Dh%2Csid%3D%227b52dbed-1cf8-4c1c-899a-dcbeaab7758f%22%2Cst%3Dv&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDI2IDEwOjU0OjQ0IEFNJmhhc2hfdmFsdWU9bUJJY1d6U2Y1ck03a3dwMVZKc3I1QT09JnZhbGlkbWludXRlcz0yNDAmaWQ9ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKU1V6STFOaUo5LmV5SmxlSEFpT2pFM09UTTFPVFU1TVRVc0luTjFZbk5qY21saVpYSmZhV1FpT2lJMU5EUTNPVFlpTENKemRHSWlPaUpuYkY4eE1UWTROelF3TkRJMU1qSTJOakE1TWpJeU56Z3RNVEEzSW4wLlhqSjNBNHpGV0lqVkhVZ3M2SDlja1NEYlVkR29HdTVYaTZFeENZY0FKY0U=&CMCD=br%3D10000%2Cot%3Dm%2Cmtp%3D10000%2Csu%2Ccid%3D%22a-rz--cricket--Us2103164693882503209%22%2Csf%3Dh%2Csid%3D%222e92d416-6535-4460-8103-dbc8e0b3c0d7%22%2Cst%3Dv",
+  "npl-gurkhas-yaks-5": {
+  "url": "https://ott-int-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8",
   "sandbox": true
 },
 
