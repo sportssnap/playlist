@@ -82,170 +82,170 @@
 
 
 
-  "laliga-rac-real-1": {
-  "url": "https://live05.miekgo.app/live/33982309.m3u8",
+  "bundesliga-dort-elve-1": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
   "sandbox": false
 },
-"laliga-rac-real-2": {
-  "url": "https://live05.miekgo.app/live/78905744.m3u8",
+"bundesliga-dort-elve-2": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
   "sandbox": false
 },
-  "laliga-rac-real-3": {
-  "url": "https://live05.miekgo.app/live/33982309.m3u8",
+  "bundesliga-dort-elve-3": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
   "sandbox": false
 },
-  "laliga-rac-real-4": {
-  "url": "https://live05.miekgo.app/live/78905744.m3u8",
+  "bundesliga-dort-elve-4": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
   "sandbox": false
 },
 
 
-  "epl-liv-ars-1": {
-  "url": "https://live05.miekgo.app/live/08552895.m3u8",
+  "bundesliga-main-bay-1": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
-"epl-liv-ars-2": {
-  "url": "https://live05.miekgo.app/live/07428422.m3u8",
+"bundesliga-main-bay-2": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
-  "epl-liv-ars-3": {
-  "url": "https://live05.miekgo.app/live/08552895.m3u8",
+  "bundesliga-main-bay-3": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
-  "epl-liv-ars-4": {
-  "url": "https://live05.miekgo.app/live/07428422.m3u8",
+  "bundesliga-main-bay-4": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
 
 
 
-  "seriea-juv-nap-1": {
-  "url": "https://live05.miekgo.app/live/08552895.m3u8",
+  "epl-ars-hull-1": {
+  "url": "https://live05.wecile.app/live/08552895.m3u8",
   "sandbox": true
 },
-"seriea-juv-nap-2": {
-  "url": "https://live05.miekgo.app/live/07428422.m3u8",
+"epl-ars-hull-2": {
+  "url": "https://live05.wecile.app/live/14830711.m3u8",
   "sandbox": true
 },
-  "seriea-juv-nap-3": {
-  "url": "https://live05.miekgo.app/live/08552895.m3u8",
+  "epl-ars-hull-3": {
+  "url": "https://live05.wecile.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "seriea-juv-nap-4": {
-  "url": "https://live05.miekgo.app/live/07428422.m3u8",
+  "epl-ars-hull-4": {
+  "url": "https://live05.wecile.app/live/14830711.m3u8",
   "sandbox": true
 },
 
 
   
   
-"mls-miami-ner-1": {
-  "url": "https://live05.miekgo.app/live/59444581.m3u8",
+"epl-ful-new-1": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
   "sandbox": true
 },
-"mls-miami-ner-2": {
-  "url": "https://live05.miekgo.app/live/59444581.m3u8",
+"epl-ful-new-2": {
+  "url": "https://live05.wecile.app/live/18812304.m3u8",
   "sandbox": true
 },
-  "mls-miami-ner-3": {
-  "url": "https://live05.miekgo.app/live/59444581.m3u8",
+  "epl-ful-new-3": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
   "sandbox": true
 },
-  "mls-miami-ner-4": {
-  "url": "https://live05.miekgo.app/live/59444581.m3u8",
-  "sandbox": true
-},
-
-
-  "seriea-lec-juv-1": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-"seriea-lec-juv-2": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-  "seriea-lec-juv-3": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
-  "sandbox": true
-},
-  "seriea-lec-juv-4": {
-  "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
+  "epl-ful-new-4": {
+  "url": "https://live05.wecile.app/live/18812304.m3u8",
   "sandbox": true
 },
 
 
-
-  "laliga-barca-real-1": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+  "epl-nott-city-1": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
-"laliga-barca-real-2": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+"epl-nott-city-2": {
+  "url": "https://live05.wecile.app/live/78905744.m3u8",
   "sandbox": true
 },
-  "laliga-barca-real-3": {
-  "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+  "epl-nott-city-3": {
+  "url": "https://live05.wecile.app/live/97885009.m3u8",
   "sandbox": true
 },
-  "laliga-barca-real-4": {
-  "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+  "epl-nott-city-4": {
+  "url": "https://live05.wecile.app/live/78905744.m3u8",
   "sandbox": true
 },
 
 
 
-  "laliga-barca-geta-1": {
-  "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
+  "seriea-roma-sass-1": {
+  "url": "https://live05.wecile.app/live/87547578.m3u8",
   "sandbox": true
 },
-"laliga-barca-geta-2": {
-  "url": "https://live.dyrur1.com/live/72478612_d8f62d83212c8fdc8c11b6be48efd6fc_1080p.m3u8",
+"seriea-roma-sass-2": {
+  "url": "https://live05.wecile.app/live/87547578.m3u8",
   "sandbox": true
 },
-  "laliga-barca-geta-3": {
-  "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
+  "seriea-roma-sass-3": {
+  "url": "https://live05.wecile.app/live/87547578.m3u8",
   "sandbox": true
 },
-  "laliga-barca-geta-4": {
-  "url": "https://live05.meung.app/live/18812304_tsc.m3u8",
-  "sandbox": true
-},
-
-
-  "ligue1-psg-man-1": {
-  "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
-  "sandbox": true
-},
-"ligue1-psg-man-2": {
-  "url": "https://live.dyrur1.com/live/72036214_0abbfb02b75ab07b044a3eae88e31b9e_1080p.m3u8",
-  "sandbox": true
-},
-  "ligue1-psg-man-3": {
-  "url": "https://live05.meung.app/live/02456966_tsc.m3u8",
-  "sandbox": true
-},
-  "ligue1-psg-man-4": {
-  "url": "https://live05.meung.app/live/78905744_tsc.m3u8",
+  "seriea-roma-sass-4": {
+  "url": "https://live05.wecile.app/live/87547578.m3u8",
   "sandbox": true
 },
 
 
 
-  "laliga-real-villa-1": {
-  "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
+  "laliga-val-real-1": {
+  "url": "https://live05.wecile.app/live/08552895.m3u8",
   "sandbox": true
 },
-"laliga-real-villa-2": {
-  "url": "https://live.dyrur1.com/live/72478622_50361af8ca6b528d6e50a47f5dbe0511_1080p.m3u8",
+"laliga-val-real-2": {
+  "url": "https://live05.wecile.app/live/33860426.m3u8",
   "sandbox": true
 },
-  "laliga-real-villa-3": {
-  "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
+  "laliga-val-real-3": {
+  "url": "https://live05.wecile.app/live/08552895.m3u8",
   "sandbox": true
 },
-  "laliga-real-villa-4": {
-  "url": "https://live05.meung.app/live/08552895_tsc.m3u8",
+  "laliga-val-real-4": {
+  "url": "https://live05.wecile.app/live/33860426.m3u8",
+  "sandbox": true
+},
+
+
+  "ligue1-psg-troy-1": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
+  "sandbox": true
+},
+"ligue1-psg-troy-2": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
+  "sandbox": true
+},
+  "ligue1-psg-troy-3": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
+  "sandbox": true
+},
+  "ligue1-psg-troy-4": {
+  "url": "https://live05.wecile.app/live/16226575.m3u8",
+  "sandbox": true
+},
+
+
+
+  "mls-miami-char-1": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
+  "sandbox": true
+},
+"mls-miami-char-2": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
+  "sandbox": true
+},
+  "mls-miami-char-3": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
+  "sandbox": true
+},
+  "mls-miami-char-4": {
+  "url": "https://live05.wecile.app/live/02456966.m3u8",
   "sandbox": true
 },
 
@@ -417,7 +417,7 @@
   "sandbox": true
 },
   "npl-gurkhas-lions-3": {
-  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https://in-mc-flive.fancode.com/mumbai/4250369_english_hls_41beb5797488624_1ta-di_h264/720p.m3u8?hdntl=Expires=1793963185~_GO=Generated~acl=/mumbai/4250369_english_hls_41beb5797488624_1ta-di_h264/*~SessionID=7814838588_watcho_a8e4603e-fb47-4e~Signature=AV7HGj7t5cZNj1cjOk6oN7Jon93TOkhnPEdT3zOTYtIFny8BkO2Vrcn-eJ4vwmruM9L_qYk0fZGZKucZLNWOYfbk_vwC",
+  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https://in-mc-flive.fancode.com/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/720p.m3u8?hdntl=Expires=1794136174~_GO=Generated~acl=/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cd2b4837-8613-4f~Signature=AV7HGj6jPnb8XY6jyg_yUcLGrblfsPjdj4rTyRX_edA26-m8j4B9YSeQRURKlyDUwhm6D493EDVifBhN4UkXQ9v-fAEO",
   "sandbox": true
 },
   "npl-gurkhas-lions-4": {
@@ -425,7 +425,7 @@
   "sandbox": true
 },
   "npl-gurkhas-lions-5": {
-  "url": "https://in-mc-flive.fancode.com/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794136174~_GO=Generated~acl=/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cd2b4837-8613-4f~Signature=AV7HGj6jPnb8XY6jyg_yUcLGrblfsPjdj4rTyRX_edA26-m8j4B9YSeQRURKlyDUwhm6D493EDVifBhN4UkXQ9v-fAEO",
+  "url": "https://mini.allinonereborn.site/fcw/player_world.html?url=https://in-mc-flive.fancode.com/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794136174~_GO=Generated~acl=/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cd2b4837-8613-4f~Signature=AV7HGj6jPnb8XY6jyg_yUcLGrblfsPjdj4rTyRX_edA26-m8j4B9YSeQRURKlyDUwhm6D493EDVifBhN4UkXQ9v-fAEO",
   "sandbox": true
 },
 
