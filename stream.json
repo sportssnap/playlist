@@ -431,24 +431,24 @@
 
 
 
-  "t20-ind-zea-1": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207584205931&id=1001&pk=c4323b65996364ecffb013360559b48d32525197265180aa60f160339b00b608a454c7f620d5a0e94041263e3dbe08546439eea792eb2ddbf58eb09e8334d424",
+  "odi-ind-zea-1": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207648663744&id=1001&pk=0e86aa00a40c3b24b4c72da31e0d6aeb4523c19d455e5bc01ddf48476e5521f8194dbe9c76ff59b2d049f0fb830ebd8b38d70930b985f01357bb506d0771967a",
   "sandbox": false
 },
-  "t20-ind-zea-2": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207584205931&id=1001&pk=c4323b65996364ecffb013360559b48d32525197265180aa60f160339b00b608a454c7f620d5a0e94041263e3dbe08546439eea792eb2ddbf58eb09e8334d424",
+  "odi-ind-zea-2": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207648663744&id=1001&pk=0e86aa00a40c3b24b4c72da31e0d6aeb4523c19d455e5bc01ddf48476e5521f8194dbe9c76ff59b2d049f0fb830ebd8b38d70930b985f01357bb506d0771967a",
   "sandbox": false
 },
-  "t20-ind-zea-3": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207584205931&id=1001&pk=c4323b65996364ecffb013360559b48d32525197265180aa60f160339b00b608a454c7f620d5a0e94041263e3dbe08546439eea792eb2ddbf58eb09e8334d424",
+  "odi-ind-zea-3": {
+  "url": "https://allinone-sports3.pages.dev/player?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Ftdijwiga2k%2Fout%2Fv1%2Ff5fde318678f4f7583bf27b7231bde1f%2Fcenc.mpd&name=TNT4UK+SPORTS+FHD&title=New+Zealand+Vs+India&category=Cricket&kid=fa34fa8c90336dd528c7a23871cad1fe&key=552a78d1aeb74f1650d68255c5749408&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&type=mpd",
   "sandbox": true
 },
-  "t20-ind-zea-4": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207584205931&id=1001&pk=c4323b65996364ecffb013360559b48d32525197265180aa60f160339b00b608a454c7f620d5a0e94041263e3dbe08546439eea792eb2ddbf58eb09e8334d424",
+  "odi-ind-zea-4": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207648663744&id=1001&pk=0e86aa00a40c3b24b4c72da31e0d6aeb4523c19d455e5bc01ddf48476e5521f8194dbe9c76ff59b2d049f0fb830ebd8b38d70930b985f01357bb506d0771967a",
   "sandbox": true
   },
-  "t20-ind-zea-5": {
-  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207584205931&id=1001&pk=c4323b65996364ecffb013360559b48d32525197265180aa60f160339b00b608a454c7f620d5a0e94041263e3dbe08546439eea792eb2ddbf58eb09e8334d424",
+  "odi-ind-zea-5": {
+  "url": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207648663744&id=1001&pk=0e86aa00a40c3b24b4c72da31e0d6aeb4523c19d455e5bc01ddf48476e5521f8194dbe9c76ff59b2d049f0fb830ebd8b38d70930b985f01357bb506d0771967a",
   "sandbox": true
 },
 
